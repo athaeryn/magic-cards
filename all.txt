@@ -21,7 +21,6 @@ Ajani Steadfast
 Ajani's Presence
 Ajani's Presence
 Ajani's Pridemate
-Akroan Akyguard
 Akroan Conscriptor
 Akroan Crusader
 Akroan Hoplite
@@ -30,7 +29,8 @@ Akroan Mastiff
 Akroan Phalanx
 Akroan Phalanx
 Akroan Skyguard
-Alive // Well
+Akroan Skyguard
+Alive
 Altac Bloodseeker
 Altac Bloodseeker
 Altar's Reap
@@ -130,7 +130,7 @@ Cast into Darkness
 Cast into Darkness
 Catacomb Slug
 Catacomb Slug
-Catch // Release
+Catch
 Caustic Tar
 Caustic Tar
 Cavern Lampad
@@ -1123,6 +1123,7 @@ Reclamation Sage
 Reflecting Pool
 Regathan Firecat
 Regathan Firecat
+Release
 Renowned Weaver
 Reprisal
 Reprisal
@@ -1402,6 +1403,7 @@ Swamp
 Swarmborn Giant
 Swarmborn Giant
 Swordwise Centaur
+Tear
 Temple of Malady
 Temple of Plenty
 Tenacious Dead
@@ -1433,7 +1435,7 @@ Titanic Growth
 Titanic Growth
 Titanic Growth
 Tithe Drinker
-Toil // Trouble
+Toil
 Tome Scour
 Tome Scour
 Tome Scour
@@ -1465,6 +1467,7 @@ Triton Shorestalker
 Triton Shorethief
 Trollhide
 Tromokratis
+Trouble
 Trumpet Blast
 Turn the Tide
 Turn to Frog
@@ -1526,9 +1529,10 @@ War-Wing Siren
 Water Servant
 Way of the Thief
 Way of the Thief
-Wear // Tear
+Wear
 Welkin Tern
 Welkin Tern
+Well
 Whims of the Fates
 Whitewater Naiads
 Whitewater Naiads
