@@ -69,11 +69,16 @@ Athreos, God of Passage
 Attended Knight
 Avenging Arrow
 Awe for the Guilds
+Awe for the Guilds
 Axebane Stag
 Balustrade Spy
 Balustrade Spy
+Bane Alley Blackguard
+Bane Alley Broker
 Banishing Light
 Barrage of Expendables
+Basilica Screecher
+Battering Krasis
 Battering Krasis
 Battering Krasis
 Battle Mastery
@@ -81,6 +86,7 @@ Battle Sliver
 Battle Sliver
 Battle Sliver
 Battlefield Forge
+Beetleform Mage
 Bile Blight
 Black Cat
 Black Cat
@@ -146,6 +152,7 @@ Cavern Lampad
 Celestial Archon
 Centaur Courser
 Centaur's Herald
+Chained to the Rocks
 Chandra's Outrage
 Charging Badger
 Charging Badger
@@ -177,6 +184,7 @@ Clear a Path
 Cloaked Siren
 Cloaked Siren
 Cloaked Siren
+Coastline Chimera
 Codex Shredder
 Coerced Confession
 Cogwork Tracker
@@ -185,6 +193,7 @@ Colossal Heroics
 Common Bond
 Congregate
 Constricting Sliver
+Coordinated Assault
 Coral Barrier
 Coral Barrier
 Coral Barrier
@@ -225,6 +234,7 @@ Dawnstrike Paladin
 Deadly Recluse
 Deathcult Rogue
 Deathgaze Cockatrice
+Debtor's Pulpit
 Deicide
 Deputy of Acquittals
 Desecration Plague
@@ -241,6 +251,7 @@ Devouring Light
 Devouring Light
 Dictate of the Twin Gods
 Diffusion Sliver
+Dimir Cluestone
 Dimir Guildgate
 Dimir Guildgate
 Disciple of Deceit
@@ -338,6 +349,7 @@ Fate Foretold
 Fate Unraveler
 Fated Intervention
 Fated Intervention
+Favored Hoplite
 Fearsome Temper
 Fearsome Temper
 Fearsome Temper
@@ -346,6 +358,7 @@ Feast of Dreams
 Feast of Dreams
 Feast on the Fallen
 Felhide Brawler
+Felhide Minotaur
 Feral Incarnation
 Feral Incarnation
 Feral Invocation
@@ -509,6 +522,7 @@ Forest
 Forest
 Forest
 Forest
+Forest
 Forge Devil
 Forge Devil
 Forlorn Pseudamma
@@ -521,12 +535,14 @@ Fortify
 Foundry Street Denizen
 Foundry Street Denizen
 Frenzied Goblin
+Frenzied Tilling
 Frost Breath
 Frost Breath
 Frost Lynx
 Frost Lynx
 Fugitive Wizard
 Fugitive Wizard
+Furious Resistance
 Furnace Whelp
 Gamekeeper
 Garruk's Packleader
@@ -568,6 +584,7 @@ Godhunter Octopus
 Godhunter Octopus
 Gods Willing
 Golden Hind
+Golgari Cluestone
 Golgari Longlegs
 Great Hart
 Great Hart
@@ -606,8 +623,10 @@ Hive Stirrings
 Hold at Bay
 Hold at Bay
 Hold the Gates
+Hopeful Eidolon
 Horizon Scholar
 Hornet Queen
+Horror of the Dim
 Howl of the Night Pack
 Howl of the Night Pack
 Hubris
@@ -761,6 +780,7 @@ Karametra's Acolyte
 Karametra's Favor
 King Macar, the Gold-Cursed
 Kingpin's Pet
+Kingpin's Pet
 Kinsbaile Skirmisher
 Kinsbaile Skirmisher
 Kiora's Follower
@@ -783,6 +803,7 @@ Kurkesh, Onakke Ancient
 Lagonna-Band Elder
 Lagonna-Band Trailblazer
 Lagonna-Band Trailblazer
+Lash of the Whip
 Last Breath
 Last Breath
 Last Breath
@@ -852,6 +873,7 @@ Merfolk Spy
 Merfolk Spy
 Messenger Drake
 Messenger's Speed
+Messenger's Speed
 Meteorite
 Midnight Guard
 Midnight Guard
@@ -875,6 +897,7 @@ Minotaur Skullcleaver
 Mischief and Mayhem
 Mogis's Marauder
 Moment of Heroism
+Morgue Burst
 Morgue Burst
 Mortal's Ardor
 Mortal's Ardor
@@ -1105,6 +1128,7 @@ Pharagax Giant
 Pharagax Giant
 Pharika's Chosen
 Pharika's Cure
+Pharika's Cure
 Pharika, God of Affliction
 Pheres-Band Centaurs
 Pheres-Band Thunderhoof
@@ -1237,6 +1261,7 @@ Plummet
 Plummet
 Plummet
 Pontiff of Blight
+Portent of Betrayal
 Predator's Rapport
 Predatory Sliver
 Predatory Sliver
@@ -1246,6 +1271,7 @@ Predatory Sliver
 Pride Guardian
 Primal Huntbeast
 Primal Visitation
+Primal Visitation
 Prophetic Prism
 Prowler's Helm
 Psychic Spiral
@@ -1254,6 +1280,7 @@ Psychic Strike
 Pull from the Deep
 Punish the Enemy
 Purphoros's Emissary
+Pyrewild Shaman
 Quarry Colossus
 Quickling
 Radiant Fountain
@@ -1279,6 +1306,7 @@ Ravenous Leucrocota
 Razorfoot Griffin
 Razorfoot Griffin
 Razorfoot Griffin
+Razortip Whip
 Read the Bones
 Read the Bones
 Reap What Is Sown
@@ -1299,6 +1327,7 @@ Restore the Peace
 Retraction Helix
 Retraction Helix
 Retraction Helix
+Returned Phalanx
 Revoke Existence
 Revoke Existence
 Revoke Existence
@@ -1343,6 +1372,7 @@ Rummaging Goblin
 Runeclaw Bear
 Runeclaw Bear
 Sacred Foundry
+Sacred Foundry
 Sanctified Charge
 Sanctified Charge
 Sanctified Charge
@@ -1369,12 +1399,14 @@ Satyr Wayfinder
 Scaled Wurm
 Scatter Arc
 Scholar of Athreos
+Scholar of Athreos
 Scorchwalker
 Scouring Sands
 Scouring Sands
 Scuttling Doom Engine
 Scuttling Doom Engine
 Scuttling Doom Engine
+Sea God's Revenge
 Seacoast Drake
 Searing Blood
 Seismic Stomp
@@ -1408,6 +1440,7 @@ Shaman of Spring
 Shattering Blow
 Shield of the Avatar
 Shield of the Avatar
+Shielded Passage
 Shielded Passage
 Shivan Dragon
 Shock
@@ -1446,12 +1479,15 @@ Soulmender
 Soulmender
 Soulmender
 Soulmender
+Spark Jolt
 Spear of Heliod
 Species Gorger
 Spell Rupture
 Sphinx's Disciple
 Sphinx's Disciple
 Sphinx's Disciple
+Spike Jester
+Spire Tracer
 Spirespine
 Spirit of the Labyrinth
 Spiteful Blow
@@ -1495,6 +1531,7 @@ Sunbond
 Sundering Growth
 Sungrace Pegasus
 Sungrace Pegasus
+Sunspire Gatekeepers
 Sunspire Griffin
 Sunspire Griffin
 Suntail Hawk
@@ -1504,6 +1541,7 @@ Supply-Line Cranes
 Supply-Line Cranes
 Supply-Line Cranes
 Supply-Line Cranes
+Swamp
 Swamp
 Swamp
 Swamp
@@ -1644,6 +1682,8 @@ Titanic Growth
 Titanic Growth
 Titanic Growth
 Tithe Drinker
+Tithe Drinker
+Toil
 Toil
 Tome Scour
 Tome Scour
@@ -1655,6 +1695,7 @@ Tormented Thoughts
 Totally Lost
 Tower Drake
 Towering Indrik
+Towering Thunderfist
 Trained Condor
 Transguild Promenade
 Transguild Promenade
@@ -1676,6 +1717,7 @@ Triton Shorestalker
 Triton Shorethief
 Trollhide
 Tromokratis
+Trouble
 Trouble
 Trumpet Blast
 Turn the Tide
@@ -1728,6 +1770,7 @@ Voyage's End
 Voyaging Satyr
 Voyaging Satyr
 Voyaging Satyr
+Wake the Reflections
 Walking Corpse
 Wall of Essence
 Wall of Fire
@@ -1738,7 +1781,9 @@ Wall of Limbs
 Wall of Mulch
 War-Wing Siren
 Warchanter of Mogis
+Warleader's Helix
 Water Servant
+Way of the Thief
 Way of the Thief
 Way of the Thief
 Wear
@@ -1760,6 +1805,7 @@ Wind Drake
 Windstorm
 Witch's Familiar
 Woodborn Behemoth
+Wrecking Ogre
 Wring Flesh
 Wring Flesh
 Xathrid Necromancer
