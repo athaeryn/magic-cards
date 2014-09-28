@@ -1,4 +1,4 @@
-AEtherspouts
+Ætherspouts
 Abzan Guide
 Accorder's Shield
 Accursed Spirit
@@ -1879,7 +1879,7 @@ Undergrowth Scavenger
 Underworld Coinsmith
 Unknown Shores
 Unmake the Graves
-Unravel the AEther
+Unravel the Æther
 Urban Burgeoning
 Urban Burgeoning
 Urbis Protector
