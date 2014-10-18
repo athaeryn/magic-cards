@@ -2,6 +2,7 @@ Accorder's Shield
 Claim of Erebos
 Excoriate
 Fated Intervention
+Feed the Clan
 Font of Fertility
 Great Hart
 Guildscorn Ward
@@ -10,11 +11,13 @@ Hydra Broodmaster
 Krenko's Enforcer
 Master of the Feast
 Mending Touch
+Overwhelm
 Phytotitan
 Portent of Betrayal
 Rakshasa Vizier
 Runeclaw Bear
 Satyr Grovedancer
+Temur Ascendancy
 Vineweft
 Wildwood Rebirth
 Xenagos, God of Revels
