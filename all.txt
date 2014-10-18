@@ -120,6 +120,11 @@ Blur Sliver
 Blur Sliver
 Blur Sliver
 Blur Sliver
+Blur Sliver
+Blur Sliver
+Blur Sliver
+Blur Sliver
+Blur Sliver
 Bolt of Keranos
 Bolt of Keranos
 Boonweaver Giant
@@ -653,6 +658,8 @@ Grisly Transformation
 Grisly Transformation
 Groundshaker Sliver
 Groundshaker Sliver
+Groundshaker Sliver
+Groundshaker Sliver
 Gruul Cluestone
 Gruul War Chant
 Guardians of Meletis
@@ -913,6 +920,8 @@ Magma Spray
 Magma Spray
 Mahamoti Djinn
 Mana Geyser
+Manaweft Sliver
+Manaweft Sliver
 Manaweft Sliver
 Marauding Maulhorn
 March of the Returned
@@ -1353,6 +1362,10 @@ Predatory Sliver
 Predatory Sliver
 Predatory Sliver
 Predatory Sliver
+Predatory Sliver
+Predatory Sliver
+Predatory Sliver
+Predatory Sliver
 Pride Guardian
 Primal Huntbeast
 Primal Visitation
@@ -1520,6 +1533,8 @@ Seller of Songbirds
 Selvala's Enforcer
 Sengir Vampire
 Sentinel Sliver
+Sentinel Sliver
+Sentinel Sliver
 Seraph of the Masses
 Seraph of the Masses
 Serra Angel
@@ -1577,6 +1592,9 @@ Skyline Predator
 Skyreaping
 Slaughterhorn
 Sliver Construct
+Sliver Construct
+Sliver Construct
+Sliver Construct
 Smelt-Ward Gatekeepers
 Solemn Offering
 Solemn Offering
@@ -1625,6 +1643,11 @@ Stoneshock Giant
 Stonewise Fortifier
 Stormchaser Chimera
 Stratus Walk
+Striking Sliver
+Striking Sliver
+Striking Sliver
+Striking Sliver
+Striking Sliver
 Striking Sliver
 Structural Collapse
 Stubborn Denial
