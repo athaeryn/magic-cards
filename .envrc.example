@@ -1,0 +1,2 @@
+PATH_add /path/to/magic/tools
+export CARD_DB_PATH=/path/to/cards.db

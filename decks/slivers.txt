@@ -1,26 +1,21 @@
 Battle Sliver
 Battle Sliver
-Battle Sliver
+Bloodstained Mire
 Blur Sliver
-Blur Sliver
-Coordinated Assault
-Dragon Mantle
-Dragon Mantle
+Diffusion Sliver
+Diffusion Sliver
 Forest
 Forest
 Forest
 Forest
 Forest
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
+Frontier Bivouac
 Groundshaker Sliver
-Groundshaker Sliver
-Gruul Cluestone
-Guardians of Meletis
+Hive Stirrings
+Island
+Island
+Leeching Sliver
+Leeching Sliver
 Lightning Strike
 Lightning Strike
 Manaweft Sliver
@@ -33,16 +28,11 @@ Mountain
 Mountain
 Mountain
 Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
 Naturalize
 Naturalize
-Nature's Panoply
 Nissa, Worldwaker
-Nykthos, Shrine to Nyx
+Plains
+Plains
 Plummet
 Plummet
 Portent of Betrayal
@@ -50,16 +40,23 @@ Predatory Sliver
 Predatory Sliver
 Predatory Sliver
 Predatory Sliver
-Prowler's Helm
-Reflecting Pool
-Rouse the Mob
-Rouse the Mob
-Scuttling Doom Engine
-Scuttling Doom Engine
-Scuttling Doom Engine
+Sacred Foundry
+Sacred Foundry
+Sentinel Sliver
+Sentinel Sliver
 Sliver Construct
+Sliver Construct
+Sliver Hive
+Sliver Hive
+Sliver Hive
+Sliver Hive
+Sliver Hivelord
+Sliver Hivelord
 Striking Sliver
-Urban Burgeoning
-Urban Burgeoning
-Wildwood Rebirth
+Striking Sliver
+Swamp
+Swamp
+Temple of Malady
+Venom Sliver
+Venom Sliver
 Xenagos, God of Revels
