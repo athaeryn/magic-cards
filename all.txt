@@ -182,7 +182,6 @@ Cast into Darkness
 Cast into Darkness
 Cast into Darkness
 Cast into Darkness
-Cast into Darkness
 Catacomb Slug
 Catacomb Slug
 Catch
@@ -198,8 +197,6 @@ Charging Badger
 Charging Badger
 Charging Badger
 Charging Badger
-Charging Badger
-Charging Rhino
 Charging Rhino
 Charging Rhino
 Charging Rhino
@@ -251,7 +248,6 @@ Covenant of Blood
 Covenant of Blood
 Covenant of Blood
 Covenant of Blood
-Covenant of Blood
 Crackling Perimeter
 Cranial Archive
 Crippling Blight
@@ -266,7 +262,6 @@ Crypsis
 Crypsis
 Crypsis
 Crypt Incursion
-Culling Mark
 Culling Mark
 Culling Mark
 Culling Mark
@@ -287,8 +282,6 @@ Debtor's Pulpit
 Defiant Strike
 Deicide
 Deputy of Acquittals
-Desecration Plague
-Desecration Plague
 Desecration Plague
 Desecration Plague
 Desecration Plague
@@ -320,8 +313,6 @@ Disowned Ancestor
 Disowned Ancestor
 Disowned Ancestor
 Disperse
-Divination
-Divination
 Divination
 Divination
 Divination
@@ -364,10 +355,6 @@ Eidolon of Rhetoric
 Elephant Guide
 Elite Skirmisher
 Elite Skirmisher
-Elvish Mystic
-Elvish Mystic
-Elvish Mystic
-Elvish Mystic
 Elvish Mystic
 Elvish Mystic
 Elvish Mystic
@@ -664,9 +651,6 @@ Generator Servant
 Generator Servant
 Generator Servant
 Generator Servant
-Generator Servant
-Generator Servant
-Generator Servant
 Genesis Hydra
 Ghor-Clan Rampager
 Ghor-Clan Rampager
@@ -759,7 +743,6 @@ Hubris
 Humbler of Mortals
 Humbler of Mortals
 Hunger of the Howlpack
-Hunt the Weak
 Hunt the Weak
 Hunt the Weak
 Hunt the Weak
@@ -1017,9 +1000,6 @@ Loyal Pegasus
 Loyal Pegasus
 Loyal Pegasus
 Loyal Pegasus
-Loyal Pegasus
-Loyal Pegasus
-Loyal Pegasus
 Madcap Skills
 Magma Spray
 Magma Spray
@@ -1082,7 +1062,6 @@ Mind Rot
 Mind Rot
 Mind Rot
 Mind Rot
-Mind Rot
 Miner's Bane
 Minotaur Abomination
 Minotaur Abomination
@@ -1103,7 +1082,6 @@ Morgue Burst
 Morgue Burst
 Mortal's Ardor
 Mortal's Ardor
-Mortal's Resolve
 Mortal's Resolve
 Mortal's Resolve
 Mortal's Resolve
@@ -1247,9 +1225,6 @@ Naturalize
 Naturalize
 Naturalize
 Naturalize
-Naturalize
-Naturalize
-Naturalize
 Nature's Panoply
 Nav Squad Commandos
 Necrobite
@@ -1311,14 +1286,10 @@ Oakheart Dryads
 Oakheart Dryads
 Oakheart Dryads
 Oakheart Dryads
-Oakheart Dryads
-Oakheart Dryads
 Omenspeaker
 Omenspeaker
 Opaline Unicorn
 Opportunity
-Oppressive Rays
-Oppressive Rays
 Oppressive Rays
 Oppressive Rays
 Oppressive Rays
@@ -1328,8 +1299,6 @@ Opulent Palace
 Opulent Palace
 Ordruun Veteran
 Oreskos Sun Guide
-Oreskos Swiftclaw
-Oreskos Swiftclaw
 Oreskos Swiftclaw
 Oreskos Swiftclaw
 Oreskos Swiftclaw
@@ -1564,9 +1533,6 @@ Raise the Alarm
 Raise the Alarm
 Raise the Alarm
 Raise the Alarm
-Raise the Alarm
-Raise the Alarm
-Raise the Alarm
 Rakdos Cluestone
 Rakdos Ringleader
 Rakshasa Deathdealer
@@ -1646,9 +1612,6 @@ Rouse the Mob
 Rouse the Mob
 Rouse the Mob
 Rouse the Mob
-Rouse the Mob
-Rouse the Mob
-Rouse the Mob
 Rugged Highlands
 Rumbling Baloth
 Rummaging Goblin
@@ -1662,7 +1625,6 @@ Ruthless Ripper
 Sacred Foundry
 Sacred Foundry
 Salt Road Patrol
-Sanctified Charge
 Sanctified Charge
 Sanctified Charge
 Sanctified Charge
@@ -1681,8 +1643,6 @@ Satyr Hoplite
 Satyr Hoplite
 Satyr Nyx-Smith
 Satyr Nyx-Smith
-Satyr Wayfinder
-Satyr Wayfinder
 Satyr Wayfinder
 Satyr Wayfinder
 Satyr Wayfinder
@@ -1889,7 +1849,6 @@ Supply-Line Cranes
 Supply-Line Cranes
 Supply-Line Cranes
 Supply-Line Cranes
-Supply-Line Cranes
 Suspension Field
 Suspension Field
 Swamp
@@ -2045,7 +2004,6 @@ Thassa's Devourer
 Thassa's Devourer
 Thassa's Devourer
 Thassa's Devourer
-Thassa's Devourer
 Thassa's Ire
 Thassa's Rebuff
 Thassa's Rebuff
@@ -2067,7 +2025,6 @@ Tireless Missionaries
 Tireless Missionaries
 Tireless Missionaries
 Tireless Missionaries
-Titanic Growth
 Titanic Growth
 Titanic Growth
 Titanic Growth
@@ -2100,8 +2057,6 @@ Trap Essence
 Traveler's Amulet
 Treasure Cruise
 Treasure Cruise
-Triplicate Spirits
-Triplicate Spirits
 Triplicate Spirits
 Triplicate Spirits
 Triplicate Spirits
