@@ -7,10 +7,13 @@ Font of Fertility
 Great Hart
 Guildscorn Ward
 Hamletback Goliath
+Hot Soup
 Hydra Broodmaster
+Icy Blast
 Krenko's Enforcer
 Master of the Feast
 Mending Touch
+Midnight Guard
 Overwhelm
 Phytotitan
 Portent of Betrayal
@@ -18,6 +21,7 @@ Rakshasa Vizier
 Runeclaw Bear
 Satyr Grovedancer
 Temur Ascendancy
+Unmake the Graves
 Vineweft
 Wildwood Rebirth
 Xenagos, God of Revels

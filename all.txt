@@ -8,10 +8,13 @@ Accursed Spirit
 Accursed Spirit
 Accursed Spirit
 Accursed Spirit
+Accursed Spirit
 Act of Treason
 Act of Treason
 Act of Treason
 Act of Treason
+Act on Impulse
+Act on Impulse
 Act on Impulse
 Act on Impulse
 Advocate of the Beast
@@ -21,6 +24,7 @@ Aerial Formation
 Aerial Formation
 Aerial Predation
 Aerie Worshippers
+Aeronaut Tinkerer
 Aeronaut Tinkerer
 Agent of Erebos
 Ainok Bond-Kin
@@ -53,6 +57,7 @@ Altar's Reap
 Altar's Reap
 Amphin Pathmage
 Amphin Pathmage
+Amphin Pathmage
 Ancient Silverback
 Angelic Edict
 Angelic Edict
@@ -61,6 +66,7 @@ Annihilating Fire
 Arbiter of the Ideal
 Arbiter of the Ideal
 Arbor Colossus
+Arc Lightning
 Arc Lightning
 Archaeomancer
 Archaeomancer
@@ -83,6 +89,7 @@ Asphyxiate
 Assault Griffin
 Athreos, God of Passage
 Attended Knight
+Avacyn, Guardian Angel
 Avenging Arrow
 Awaken the Bear
 Awaken the Bear
@@ -110,8 +117,10 @@ Battlefield Forge
 Bear's Companion
 Become Immense
 Beetleform Mage
+Belligerent Sliver
 Bile Blight
 Bitter Revelation
+Black Cat
 Black Cat
 Black Cat
 Black Cat
@@ -119,6 +128,7 @@ Black Cat
 Black Oak of Odunos
 Bladetusk Boar
 Bladetusk Boar
+Blastfire Bolt
 Blastfire Bolt
 Blaze Commando
 Blessing
@@ -150,13 +160,16 @@ Bolt of Keranos
 Boonweaver Giant
 Boonweaver Giant
 Borderland Marauder
+Borderland Marauder
 Boros Battleshaper
 Boros Cluestone
 Boros Cluestone
 Boros Cluestone
 Boulderfall
+Bow of Nylea
 Brain Maggot
 Brave the Sands
+Breaching Hippocamp
 Breakthrough
 Breakthrough
 Briarpack Alpha
@@ -164,6 +177,8 @@ Brimaz, King of Oreskos
 Brindle Boar
 Brindle Boar
 Bring Low
+Bronze Sable
+Bronze Sable
 Bronze Sable
 Bronze Sable
 Bronze Sable
@@ -176,6 +191,7 @@ Cancel
 Cancel
 Capashen Knight
 Carnivorous Moss-Beast
+Carrion Crow
 Cartel Aristocrat
 Cartel Aristocrat
 Cast into Darkness
@@ -188,6 +204,8 @@ Catch
 Caustic Tar
 Caustic Tar
 Cavern Lampad
+Cavern Lampad
+Caves of Koilos
 Celestial Archon
 Centaur Courser
 Centaur's Herald
@@ -208,9 +226,12 @@ Chief of the Scale
 Child of Night
 Child of Night
 Child of Night
+Chord of Calling
 Chosen by Heliod
 Chosen by Heliod
 Chronostutter
+Chronostutter
+Circle of Flame
 Circle of Flame
 Civic Saber
 Claim of Erebos
@@ -232,6 +253,7 @@ Colossal Heroics
 Colossal Heroics
 Common Bond
 Congregate
+Congregate
 Constricting Sliver
 Constricting Sliver
 Coordinated Assault
@@ -248,6 +270,8 @@ Covenant of Blood
 Covenant of Blood
 Covenant of Blood
 Covenant of Blood
+Covenant of Blood
+Crackling Doom
 Crackling Perimeter
 Cranial Archive
 Crippling Blight
@@ -258,10 +282,12 @@ Crippling Chill
 Crookclaw Transmuter
 Crowd's Favor
 Crowd's Favor
+Crowd's Favor
 Crypsis
 Crypsis
 Crypsis
 Crypt Incursion
+Culling Mark
 Culling Mark
 Culling Mark
 Culling Mark
@@ -271,8 +297,11 @@ Cyclops Tyrant
 Cyclops of One-Eyed Pass
 Cyclops of One-Eyed Pass
 Daring Thief
+Dauntless Onslaught
+Dawn to Dusk
 Dawnstrike Paladin
 Dawnstrike Paladin
+Dead Drop
 Dead Drop
 Deadly Recluse
 Deathcult Rogue
@@ -294,6 +323,8 @@ Devouring Light
 Devouring Light
 Devouring Light
 Dictate of the Twin Gods
+Diffusion Sliver
+Diffusion Sliver
 Diffusion Sliver
 Diffusion Sliver
 Diffusion Sliver
@@ -322,6 +353,7 @@ Divination
 Divination
 Divination
 Divination
+Divine Favor
 Divine Favor
 Divine Verdict
 Divine Verdict
@@ -364,6 +396,7 @@ Embodiment of Spring
 Embodiment of Spring
 Embodiment of Spring
 Encroaching Wastes
+Encrust
 End Hostilities
 Ephara's Radiance
 Ephara's Radiance
@@ -394,6 +427,7 @@ Evolving Wilds
 Evolving Wilds
 Excoriate
 Excoriate
+Excoriate
 Executioner's Swing
 Extinguish All Hope
 Eye Gouge
@@ -408,6 +442,7 @@ Fate Foretold
 Fate Unraveler
 Fated Intervention
 Fated Intervention
+Fated Retribution
 Favored Hoplite
 Fearsome Temper
 Fearsome Temper
@@ -429,6 +464,7 @@ Festering Newt
 Festering Newt
 Firehoof Cavalry
 Firehoof Cavalry
+Firehoof Cavalry
 Fireshrieker
 Flames of the Firebrand
 Flamespeaker's Will
@@ -438,6 +474,7 @@ Flamespeaker's Will
 Flamewright
 Fleetfeather Cockatrice
 Fleetfeather Sandals
+Flesh to Dust
 Flesh to Dust
 Flesh to Dust
 Flesh to Dust
@@ -619,6 +656,8 @@ Forest
 Forest
 Forest
 Forest
+Forest
+Forest
 Forge Devil
 Forge Devil
 Forlorn Pseudamma
@@ -630,11 +669,13 @@ Fortify
 Fortify
 Foundry Street Denizen
 Foundry Street Denizen
+Foundry Street Denizen
 Frenzied Goblin
 Frenzied Tilling
 Frontier Bivouac
 Frost Breath
 Frost Breath
+Frost Lynx
 Frost Lynx
 Frost Lynx
 Frost Lynx
@@ -644,6 +685,7 @@ Furious Resistance
 Furnace Whelp
 Gamekeeper
 Garruk's Packleader
+Gather Courage
 Gather Courage
 Gather Courage
 Generator Servant
@@ -660,6 +702,8 @@ Giant Growth
 Giant Spider
 Glacial Crasher
 Glacial Crasher
+Glacial Crasher
+Glacial Stalker
 Glacial Stalker
 Gladecover Scout
 Gleam of Battle
@@ -690,6 +734,7 @@ Gravedigger
 Great Hart
 Great Hart
 Great Hart
+Great Hart
 Greenside Watcher
 Grenzo's Cutthroat
 Griffin Dreamfinder
@@ -702,6 +747,7 @@ Grim Guardian
 Grim Guardian
 Grim Guardian
 Grim Roustabout
+Grindclock
 Grisly Transformation
 Grisly Transformation
 Grisly Transformation
@@ -722,12 +768,15 @@ Haunter of Nightveil
 Heir of the Wilds
 Heir of the Wilds
 Heliod's Pilgrim
+Heliod's Pilgrim
 Herald of Anafenza
 Heroes' Reunion
 Hidden Strings
 Hidden Strings
 High Sentinels of Arashin
+Highland Game
 Hive Stirrings
+Hoarding Dragon
 Hold at Bay
 Hold at Bay
 Hold the Gates
@@ -737,6 +786,8 @@ Hopeful Eidolon
 Horizon Scholar
 Hornet Queen
 Horror of the Dim
+Hot Soup
+Hot Soup
 Howl of the Night Pack
 Howl of the Night Pack
 Hubris
@@ -747,6 +798,8 @@ Hunt the Weak
 Hunt the Weak
 Hunt the Weak
 Hunt the Weak
+Hunt the Weak
+Hunter's Ambush
 Hunter's Ambush
 Hunter's Ambush
 Hydra Broodmaster
@@ -755,15 +808,18 @@ Hydrosurge
 Hydrosurge
 Hydrosurge
 Icefeather Aven
+Icy Blast
 Ill-Tempered Cyclops
 Ill-Tempered Cyclops
 Ill-Tempered Cyclops
 Illusory Angel
 Impetuous Sunchaser
 Impetuous Sunchaser
+Impetuous Sunchaser
 Indulgent Tormentor
 Infectious Horror
 Infectious Horror
+Inferno Fist
 Inferno Fist
 Inferno Fist
 Inferno Fist
@@ -775,7 +831,11 @@ Into the Void
 Into the Void
 Invasive Species
 Invasive Species
+Invasive Species
 Invisibility
+Invisibility
+Island
+Island
 Island
 Island
 Island
@@ -912,11 +972,13 @@ Jace's Ingenuity
 Jace's Mindseeker
 Jeskai Banner
 Jeskai Banner
+Jeskai Elder
 Jeskai Student
 Juggernaut
 Jungle Hollow
 Jungle Hollow
 Kalonian Tusker
+Kalonian Twingrove
 Kalonian Twingrove
 Kapsho Kitefins
 Kapsho Kitefins
@@ -930,9 +992,11 @@ Kill Shot
 Kill Shot
 Kin-Tree Invocation
 Kin-Tree Warden
+Kin-Tree Warden
 King Macar, the Gold-Cursed
 Kingpin's Pet
 Kingpin's Pet
+Kinsbaile Skirmisher
 Kinsbaile Skirmisher
 Kinsbaile Skirmisher
 Kiora's Follower
@@ -947,6 +1011,7 @@ Kragma Butcher
 Kraken Hatchling
 Kraul Warrior
 Kraul Warrior
+Krenko's Enforcer
 Krenko's Enforcer
 Krenko's Enforcer
 Krenko's Enforcer
@@ -981,6 +1046,8 @@ Lightning Strike
 Lightning Strike
 Lightning Strike
 Lightning Strike
+Lightning Strike
+Lightning Strike
 Lightning Talons
 Lightning Talons
 Lightning Volley
@@ -994,6 +1061,7 @@ Living Totem
 Living Totem
 Llanowar Wastes
 Llanowar Wastes
+Loathsome Catoblepas
 Longshot Squad
 Longshot Squad
 Loyal Pegasus
@@ -1010,15 +1078,20 @@ Manaweft Sliver
 Manaweft Sliver
 Marauding Maulhorn
 March of the Returned
+March of the Returned
+Mardu Banner
 Mardu Blazebringer
 Mardu Blazebringer
 Mardu Blazebringer
 Mardu Hateblade
 Mardu Hordechief
+Mardu Hordechief
 Mardu Roughrider
+Mardu Skullhunter
 Mardu Skullhunter
 Mardu Warshrieker
 Mark of the Vampire
+Marked by Honor
 Marked by Honor
 Marked by Honor
 Market Festival
@@ -1053,6 +1126,8 @@ Midnight Guard
 Midnight Guard
 Midnight Guard
 Midnight Guard
+Midnight Guard
+Midnight Guard
 Midnight Recovery
 Military Intelligence
 Millstone
@@ -1062,6 +1137,8 @@ Mind Rot
 Mind Rot
 Mind Rot
 Mind Rot
+Mind Rot
+Mind Sculpt
 Miner's Bane
 Minotaur Abomination
 Minotaur Abomination
@@ -1214,6 +1291,8 @@ Mountain
 Mountain
 Mountain
 Mountain
+Mountain
+Mountain
 Mugging
 Murderous Cut
 Murderous Cut
@@ -1225,8 +1304,10 @@ Naturalize
 Naturalize
 Naturalize
 Naturalize
+Naturalize
 Nature's Panoply
 Nav Squad Commandos
+Necrobite
 Necrobite
 Necrobite
 Necrobite
@@ -1242,6 +1323,8 @@ Negate
 Negate
 Negate
 Negate
+Negate
+Nemesis of Mortals
 Nemesis of Mortals
 Nemesis of Mortals
 Nephalia Seakite
@@ -1264,6 +1347,7 @@ Nimbus of the Isles
 Nissa's Expedition
 Nissa, Worldwaker
 Noble Quarry
+Nullify
 Nullify
 Nykthos, Shrine to Nyx
 Nylea's Disciple
@@ -1288,8 +1372,10 @@ Oakheart Dryads
 Oakheart Dryads
 Omenspeaker
 Omenspeaker
+Omenspeaker
 Opaline Unicorn
 Opportunity
+Oppressive Rays
 Oppressive Rays
 Oppressive Rays
 Oppressive Rays
@@ -1299,6 +1385,7 @@ Opulent Palace
 Opulent Palace
 Ordruun Veteran
 Oreskos Sun Guide
+Oreskos Swiftclaw
 Oreskos Swiftclaw
 Oreskos Swiftclaw
 Oreskos Swiftclaw
@@ -1320,7 +1407,10 @@ Pacifism
 Pacifism
 Paragon of Eternal Wilds
 Paragon of Fierce Defiance
+Paragon of Fierce Defiance
+Paragon of Fierce Defiance
 Paragon of New Dawns
+Paragon of Open Graves
 Paragon of Open Graves
 Paralyzing Grasp
 Paranoid Delusions
@@ -1330,6 +1420,7 @@ Peel from Reality
 Peel from Reality
 Peel from Reality
 Pensive Minotaur
+Peregrination
 Peregrination
 Phalanx Formation
 Pharagax Giant
@@ -1485,6 +1576,9 @@ Plains
 Plains
 Plains
 Plains
+Plains
+Plains
+Plummet
 Plummet
 Plummet
 Plummet
@@ -1527,8 +1621,10 @@ Radiant Fountain
 Radiant Fountain
 Radiant Fountain
 Radiant Fountain
+Radiant Fountain
 Rage of Purphoros
 Ragemonger
+Raise the Alarm
 Raise the Alarm
 Raise the Alarm
 Raise the Alarm
@@ -1588,6 +1684,7 @@ Riptide Chimera
 Rise of Eagles
 Rise to the Challenge
 Rise to the Challenge
+Rise to the Challenge
 Roaring Primadox
 Roaring Primadox
 Roaring Primadox
@@ -1614,6 +1711,8 @@ Rouse the Mob
 Rouse the Mob
 Rugged Highlands
 Rumbling Baloth
+Rummaging Goblin
+Rummaging Goblin
 Rummaging Goblin
 Runeclaw Bear
 Runeclaw Bear
@@ -1649,6 +1748,7 @@ Satyr Wayfinder
 Satyr Wayfinder
 Satyr Wayfinder
 Satyr Wayfinder
+Satyr Wayfinder
 Savage Knuckleblade
 Scaled Wurm
 Scatter Arc
@@ -1663,6 +1763,8 @@ Scout the Borders
 Scout the Borders
 Scrapyard Mongrel
 Scrapyard Mongrel
+Scrapyard Mongrel
+Scrapyard Mongrel
 Scuttling Doom Engine
 Scuttling Doom Engine
 Scuttling Doom Engine
@@ -1675,6 +1777,8 @@ Seismic Stomp
 Seismic Strike
 Selesnya Cluestone
 Selesnya Guildgate
+Selfless Cathar
+Selfless Cathar
 Selfless Cathar
 Selfless Cathar
 Selfless Cathar
@@ -1697,6 +1801,7 @@ Servant of Tymaret
 Set Adrift
 Setessan Battle Priest
 Setessan Oathsworn
+Setessan Oathsworn
 Setessan Starbreaker
 Setessan Starbreaker
 Setessan Starbreaker
@@ -1707,6 +1812,7 @@ Shaman of Spring
 Shambling Attendants
 Shambling Attendants
 Shambling Attendants
+Shatter
 Shatter
 Shatter
 Shattering Blow
@@ -1731,12 +1837,15 @@ Sign in Blood
 Sign in Blood
 Sign in Blood
 Sign in Blood
+Sign in Blood
+Sign in Blood
 Silence the Believers
 Silent Sentinel
 Simic Guildgate
 Singing Bell Strike
 Sinister Possession
 Sip of Hemlock
+Siren Song Lyre
 Siren Song Lyre
 Siren of the Fanged Coast
 Siren of the Silent Song
@@ -1761,6 +1870,7 @@ Smoke Teller
 Smoke Teller
 Solemn Offering
 Solemn Offering
+Solemn Offering
 Sorin, Solemn Visitor
 Soul Ransom
 Soulmender
@@ -1769,6 +1879,7 @@ Soulmender
 Soulmender
 Spark Jolt
 Spear of Heliod
+Spearpoint Oread
 Species Gorger
 Spell Rupture
 Sphinx's Disciple
@@ -1788,6 +1899,8 @@ Stab Wound
 Staff of the Death Magus
 Staff of the Flame Magus
 Staff of the Flame Magus
+Staff of the Flame Magus
+Staff of the Flame Magus
 Staff of the Sun Magus
 Staff of the Sun Magus
 Staff of the Wild Magus
@@ -1797,6 +1910,7 @@ Statute of Denial
 Statute of Denial
 Statute of Denial
 Statute of Denial
+Staunch-Hearted Warrior
 Stealer of Secrets
 Stealer of Secrets
 Steelform Sliver
@@ -1806,6 +1920,7 @@ Stolen Identity
 Stoneshock Giant
 Stonewise Fortifier
 Stormchaser Chimera
+Stratus Walk
 Stratus Walk
 Striking Sliver
 Striking Sliver
@@ -1978,10 +2093,12 @@ Swamp
 Swamp
 Swamp
 Swamp
+Swamp
 Swarm of Bloodflies
 Swarm of Bloodflies
 Swarmborn Giant
 Swarmborn Giant
+Swiftwater Cliffs
 Swordwise Centaur
 Taigam's Scheming
 Taigam's Scheming
@@ -2078,6 +2195,7 @@ Trumpet Blast
 Turn the Tide
 Turn to Frog
 Turn to Frog
+Turn to Frog
 Tusked Colossodon
 Twisted Abomination
 Two-Headed Cerberus
@@ -2094,8 +2212,11 @@ Undead Minotaur
 Undercity Plague
 Undergrowth Scavenger
 Undergrowth Scavenger
+Undergrowth Scavenger
 Underworld Coinsmith
 Unknown Shores
+Unmake the Graves
+Unmake the Graves
 Unmake the Graves
 Unravel the Æther
 Unyielding Krumar
@@ -2116,6 +2237,7 @@ Venom Sliver
 Verdant Haven
 Verdant Haven
 Verdant Haven
+Verdant Haven
 Vial of Poison
 Viashino Firstblade
 Viashino Firstblade
@@ -2128,8 +2250,10 @@ Vineweft
 Vineweft
 Vineweft
 Vineweft
+Vineweft
 Vizkopa Guildmage
 Voice of Resurgence
+Void Snare
 Void Snare
 Voidwielder
 Vortex Elemental
@@ -2138,6 +2262,7 @@ Voyage's End
 Voyaging Satyr
 Voyaging Satyr
 Voyaging Satyr
+Vulpine Goliath
 Wake the Reflections
 Walking Corpse
 Walking Corpse
@@ -2145,6 +2270,9 @@ Wall of Essence
 Wall of Fire
 Wall of Fire
 Wall of Fire
+Wall of Fire
+Wall of Fire
+Wall of Frost
 Wall of Frost
 Wall of Frost
 Wall of Frost
@@ -2156,6 +2284,8 @@ War Behemoth
 War Behemoth
 War-Wing Siren
 Warchanter of Mogis
+Warden of the Beyond
+Warden of the Beyond
 Warden of the Eye
 Warleader's Helix
 Watcher of the Roost
@@ -2168,6 +2298,8 @@ Wear
 Weave Fate
 Weight of the Underworld
 Weight of the Underworld
+Weight of the Underworld
+Welkin Tern
 Welkin Tern
 Welkin Tern
 Well
@@ -2184,11 +2316,14 @@ Will-Forged Golem
 Will-Forged Golem
 Will-Forged Golem
 Will-Forged Golem
+Will-Forged Golem
 Wind Drake
 Wind Drake
 Wind-Scarred Crag
 Windstorm
+Wingsteed Rider
 Witch's Familiar
+Witches' Eye
 Woodborn Behemoth
 Woolly Loxodon
 Woolly Loxodon
