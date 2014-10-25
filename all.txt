@@ -1,6 +1,8 @@
 Ætherspouts
 Abomination of Gudul
+Abomination of Gudul
 Abzan Banner
+Abzan Guide
 Abzan Guide
 Accorder's Shield
 Accursed Spirit
@@ -9,6 +11,7 @@ Accursed Spirit
 Accursed Spirit
 Accursed Spirit
 Accursed Spirit
+Act of Treason
 Act of Treason
 Act of Treason
 Act of Treason
@@ -51,6 +54,7 @@ Alpine Grizzly
 Alpine Grizzly
 Alpine Grizzly
 Alpine Grizzly
+Alpine Grizzly
 Altac Bloodseeker
 Altac Bloodseeker
 Altar's Reap
@@ -76,6 +80,7 @@ Armament of Nyx
 Armament of Nyx
 Arrest
 Arrow Storm
+Arrow Storm
 Artificer's Hex
 Artificer's Hex
 Ashiok's Adept
@@ -91,6 +96,7 @@ Athreos, God of Passage
 Attended Knight
 Avacyn, Guardian Angel
 Avenging Arrow
+Awaken the Bear
 Awaken the Bear
 Awaken the Bear
 Awe for the Guilds
@@ -114,7 +120,9 @@ Battle Sliver
 Battle Sliver
 Battle Sliver
 Battlefield Forge
+Battlewise Valor
 Bear's Companion
+Bearer of the Heavens
 Become Immense
 Beetleform Mage
 Belligerent Sliver
@@ -137,10 +145,12 @@ Blinding Flare
 Blood Bairn
 Blood Host
 Blood Host
+Blood-Toll Harpy
 Bloodcrazed Hoplite
 Bloodcrazed Hoplite
 Bloodfell Caves
 Bloodfire Expert
+Bloodfire Mentor
 Bloodfire Mentor
 Bloodstained Mire
 Bloodthrone Vampire
@@ -166,9 +176,11 @@ Boros Cluestone
 Boros Cluestone
 Boros Cluestone
 Boulderfall
+Boulderfall
 Bow of Nylea
 Brain Maggot
 Brave the Sands
+Breaching Hippocamp
 Breaching Hippocamp
 Breakthrough
 Breakthrough
@@ -186,6 +198,7 @@ Bronze Sable
 Bronzebeak Moa
 Bronzebeak Moa
 Brood Keeper
+Burn Away
 Burst of Strength
 Cancel
 Cancel
@@ -211,6 +224,7 @@ Centaur Courser
 Centaur's Herald
 Chained to the Rocks
 Chandra's Outrage
+Charging Badger
 Charging Badger
 Charging Badger
 Charging Badger
@@ -242,6 +256,7 @@ Clear a Path
 Clear a Path
 Clear a Path
 Clear a Path
+Cloaked Siren
 Cloaked Siren
 Cloaked Siren
 Cloaked Siren
@@ -296,11 +311,14 @@ Cyclops Tyrant
 Cyclops Tyrant
 Cyclops of One-Eyed Pass
 Cyclops of One-Eyed Pass
+Cyclops of One-Eyed Pass
+Cyclops of One-Eyed Pass
 Daring Thief
 Dauntless Onslaught
 Dawn to Dusk
 Dawnstrike Paladin
 Dawnstrike Paladin
+Dazzling Ramparts
 Dead Drop
 Dead Drop
 Deadly Recluse
@@ -308,6 +326,7 @@ Deathcult Rogue
 Deathgaze Cockatrice
 Debilitating Injury
 Debtor's Pulpit
+Defiant Strike
 Defiant Strike
 Deicide
 Deputy of Acquittals
@@ -317,6 +336,7 @@ Desecration Plague
 Desecration Plague
 Desperate Stand
 Despise
+Destructive Revelry
 Devour Flesh
 Devouring Light
 Devouring Light
@@ -340,10 +360,12 @@ Disciple of the Old Ways
 Disdainful Stroke
 Dismal Backwater
 Dismal Backwater
+Dismal Backwater
 Disowned Ancestor
 Disowned Ancestor
 Disowned Ancestor
 Disperse
+Divination
 Divination
 Divination
 Divination
@@ -379,7 +401,9 @@ Drown in Sorrow
 Duress
 Eagle of the Watch
 Eagle of the Watch
+Eagle of the Watch
 Edric, Spymaster of Trest
+Efreet Weaponmaster
 Efreet Weaponmaster
 Efreet Weaponmaster
 Eidolon of Countless Battles
@@ -387,16 +411,19 @@ Eidolon of Rhetoric
 Elephant Guide
 Elite Skirmisher
 Elite Skirmisher
+Elite Skirmisher
 Elvish Mystic
 Elvish Mystic
 Elvish Mystic
 Elvish Mystic
 Elvish Mystic
+Embodiment of Spring
 Embodiment of Spring
 Embodiment of Spring
 Embodiment of Spring
 Encroaching Wastes
 Encrust
+End Hostilities
 End Hostilities
 Ephara's Radiance
 Ephara's Radiance
@@ -436,7 +463,11 @@ Fall of the Hammer
 Fall of the Hammer
 Fall of the Hammer
 Fall of the Hammer
+Fall of the Hammer
 Fanatic of Mogis
+Fanatic of Xenagos
+Fanatic of Xenagos
+Fanatic of Xenagos
 Fanatic of Xenagos
 Fate Foretold
 Fate Unraveler
@@ -471,8 +502,10 @@ Flamespeaker's Will
 Flamespeaker's Will
 Flamespeaker's Will
 Flamespeaker's Will
+Flamespeaker's Will
 Flamewright
 Fleetfeather Cockatrice
+Fleetfeather Sandals
 Fleetfeather Sandals
 Flesh to Dust
 Flesh to Dust
@@ -500,6 +533,21 @@ Font of Vigor
 Force Away
 Force Away
 Forced Adaptation
+Forest
+Forest
+Forest
+Forest
+Forest
+Forest
+Forest
+Forest
+Forest
+Forest
+Forest
+Forest
+Forest
+Forest
+Forest
 Forest
 Forest
 Forest
@@ -740,8 +788,10 @@ Grenzo's Cutthroat
 Griffin Dreamfinder
 Griffin Dreamfinder
 Griffin Dreamfinder
+Griffin Dreamfinder
 Griffin Sentinel
 Griffin Sentinel
+Grim Guardian
 Grim Guardian
 Grim Guardian
 Grim Guardian
@@ -752,12 +802,14 @@ Grisly Transformation
 Grisly Transformation
 Grisly Transformation
 Grisly Transformation
+Grisly Transformation
 Groundshaker Sliver
 Groundshaker Sliver
 Groundshaker Sliver
 Groundshaker Sliver
 Gruul Cluestone
 Gruul War Chant
+Guardians of Meletis
 Guardians of Meletis
 Guildscorn Ward
 Guttersnipe
@@ -775,6 +827,8 @@ Hidden Strings
 Hidden Strings
 High Sentinels of Arashin
 Highland Game
+Highland Game
+Highland Game
 Hive Stirrings
 Hoarding Dragon
 Hold at Bay
@@ -783,6 +837,7 @@ Hold the Gates
 Hooting Mandrills
 Hooting Mandrills
 Hopeful Eidolon
+Horde Ambusher
 Horizon Scholar
 Hornet Queen
 Horror of the Dim
@@ -812,10 +867,13 @@ Icy Blast
 Ill-Tempered Cyclops
 Ill-Tempered Cyclops
 Ill-Tempered Cyclops
+Ill-Tempered Cyclops
 Illusory Angel
 Impetuous Sunchaser
 Impetuous Sunchaser
 Impetuous Sunchaser
+Incremental Growth
+Incremental Growth
 Indulgent Tormentor
 Infectious Horror
 Infectious Horror
@@ -964,6 +1022,8 @@ Island
 Island
 Island
 Island
+Island
+Ivorytusk Fortress
 Ivorytusk Fortress
 Ivy Lane Denizen
 Izzet Cluestone
@@ -972,7 +1032,9 @@ Jace's Ingenuity
 Jace's Mindseeker
 Jeskai Banner
 Jeskai Banner
+Jeskai Banner
 Jeskai Elder
+Jeskai Student
 Jeskai Student
 Juggernaut
 Jungle Hollow
@@ -991,6 +1053,7 @@ Kheru Dreadmaw
 Kill Shot
 Kill Shot
 Kin-Tree Invocation
+Kin-Tree Warden
 Kin-Tree Warden
 Kin-Tree Warden
 King Macar, the Gold-Cursed
@@ -1036,11 +1099,15 @@ Leaping Master
 Leaping Master
 Leaping Master
 Leaping Master
+Leaping Master
+Leaping Master
 Leeching Sliver
 Leeching Sliver
 Lens of Clarity
 Leonin Iconoclast
 Leonin Snarecaster
+Lightning Strike
+Lightning Strike
 Lightning Strike
 Lightning Strike
 Lightning Strike
@@ -1083,17 +1150,24 @@ Mardu Banner
 Mardu Blazebringer
 Mardu Blazebringer
 Mardu Blazebringer
+Mardu Blazebringer
+Mardu Hateblade
+Mardu Hateblade
 Mardu Hateblade
 Mardu Hordechief
 Mardu Hordechief
 Mardu Roughrider
+Mardu Roughrider
 Mardu Skullhunter
 Mardu Skullhunter
+Mardu Skullhunter
+Mardu Warshrieker
 Mardu Warshrieker
 Mark of the Vampire
 Marked by Honor
 Marked by Honor
 Marked by Honor
+Market Festival
 Market Festival
 Market Festival
 Market Festival
@@ -1121,6 +1195,7 @@ Merfolk Spy
 Messenger Drake
 Messenger's Speed
 Messenger's Speed
+Messenger's Speed
 Meteorite
 Midnight Guard
 Midnight Guard
@@ -1146,7 +1221,11 @@ Minotaur Aggressor
 Minotaur Skullcleaver
 Minotaur Skullcleaver
 Mischief and Mayhem
+Mischief and Mayhem
+Mistcutter Hyrda
 Mogis's Marauder
+Mogis's Warhound
+Molting Snakeskin
 Molting Snakeskin
 Molting Snakeskin
 Molting Snakeskin
@@ -1155,6 +1234,8 @@ Monastery Flock
 Monastery Flock
 Monastery Flock
 Monastery Flock
+Monastery Flock
+Monastery Flock
 Morgue Burst
 Morgue Burst
 Mortal's Ardor
@@ -1163,6 +1244,21 @@ Mortal's Resolve
 Mortal's Resolve
 Mortal's Resolve
 Mortal's Resolve
+Mortal's Resolve
+Mortal's Resolve
+Mountain
+Mountain
+Mountain
+Mountain
+Mountain
+Mountain
+Mountain
+Mountain
+Mountain
+Mountain
+Mountain
+Mountain
+Mountain
 Mountain
 Mountain
 Mountain
@@ -1330,10 +1426,15 @@ Nemesis of Mortals
 Nephalia Seakite
 Nessian Asp
 Nessian Courser
+Nessian Courser
+Nessian Demolok
+Nessian Demolok
 Nessian Game Warden
 Nessian Game Warden
 Nessian Game Warden
 Nessian Game Warden
+Nessian Wilds Ravager
+Nessian Wilds Ravager
 Nessian Wilds Ravager
 Netcaster Spider
 Netcaster Spider
@@ -1359,6 +1460,7 @@ Nyxborn Eidolon
 Nyxborn Eidolon
 Nyxborn Eidolon
 Nyxborn Eidolon
+Nyxborn Eidolon
 Nyxborn Rollicker
 Nyxborn Rollicker
 Nyxborn Rollicker
@@ -1374,6 +1476,7 @@ Omenspeaker
 Omenspeaker
 Omenspeaker
 Opaline Unicorn
+Opaline Unicorn
 Opportunity
 Oppressive Rays
 Oppressive Rays
@@ -1383,8 +1486,12 @@ Oppressive Rays
 Opulent Palace
 Opulent Palace
 Opulent Palace
+Ordeal of Nylea
+Ordeal of Nylea
 Ordruun Veteran
 Oreskos Sun Guide
+Oreskos Sun Guide
+Oreskos Swiftclaw
 Oreskos Swiftclaw
 Oreskos Swiftclaw
 Oreskos Swiftclaw
@@ -1416,6 +1523,7 @@ Paralyzing Grasp
 Paranoid Delusions
 Paranoid Delusions
 Pay No Heed
+Peak Eruption
 Peel from Reality
 Peel from Reality
 Peel from Reality
@@ -1423,6 +1531,9 @@ Pensive Minotaur
 Peregrination
 Peregrination
 Phalanx Formation
+Phalanx Leader
+Pharagax Giant
+Pharagax Giant
 Pharagax Giant
 Pharagax Giant
 Pharagax Giant
@@ -1444,11 +1555,14 @@ Pin to the Earth
 Pin to the Earth
 Pine Walker
 Pinnacle of Rage
+Pinnacle of Rage
 Pitchburn Devils
 Pitchburn Devils
 Pitchburn Devils
 Pitchburn Devils
 Pithing Needle
+Plains
+Plains
 Plains
 Plains
 Plains
@@ -1632,12 +1746,15 @@ Raise the Alarm
 Rakdos Cluestone
 Rakdos Ringleader
 Rakshasa Deathdealer
+Rakshasa Deathdealer
 Rakshasa Vizier
+Rakshasa's Secret
 Rakshasa's Secret
 Rakshasa's Secret
 Ranger's Guile
 Ranger's Guile
 Rapid Hybridization
+Ravenous Leucrocota
 Ravenous Leucrocota
 Ravenous Leucrocota
 Ravenous Leucrocota
@@ -1648,6 +1765,8 @@ Razortip Whip
 Read the Bones
 Read the Bones
 Reap What Is Sown
+Reckless Reveler
+Reckless Reveler
 Reclamation Sage
 Reclamation Sage
 Reclamation Sage
@@ -1656,6 +1775,7 @@ Regathan Firecat
 Regathan Firecat
 Release
 Renowned Weaver
+Reprisal
 Reprisal
 Reprisal
 Rescue from the Underworld
@@ -1667,6 +1787,7 @@ Retraction Helix
 Retraction Helix
 Retraction Helix
 Returned Phalanx
+Reviving Melody
 Revoke Existence
 Revoke Existence
 Revoke Existence
@@ -1709,6 +1830,7 @@ Rouse the Mob
 Rouse the Mob
 Rouse the Mob
 Rouse the Mob
+Rouse the Mob
 Rugged Highlands
 Rumbling Baloth
 Rummaging Goblin
@@ -1720,15 +1842,19 @@ Rush of Battle
 Rush of Battle
 Rush of Battle
 Rush of Battle
+Rush of Battle
+Ruthless Ripper
 Ruthless Ripper
 Sacred Foundry
 Sacred Foundry
+Sagu Archer
 Salt Road Patrol
 Sanctified Charge
 Sanctified Charge
 Sanctified Charge
 Sanctified Charge
 Sandsteppe Citadel
+Satyr Firedancer
 Satyr Grovedancer
 Satyr Grovedancer
 Satyr Grovedancer
@@ -1742,6 +1868,7 @@ Satyr Hoplite
 Satyr Hoplite
 Satyr Nyx-Smith
 Satyr Nyx-Smith
+Satyr Piper
 Satyr Wayfinder
 Satyr Wayfinder
 Satyr Wayfinder
@@ -1750,11 +1877,13 @@ Satyr Wayfinder
 Satyr Wayfinder
 Satyr Wayfinder
 Savage Knuckleblade
+Scaldkin
 Scaled Wurm
 Scatter Arc
 Scholar of Athreos
 Scholar of Athreos
 Scorchwalker
+Scoured Barrens
 Scoured Barrens
 Scoured Barrens
 Scouring Sands
@@ -1770,6 +1899,7 @@ Scuttling Doom Engine
 Scuttling Doom Engine
 Sea God's Revenge
 Seacoast Drake
+Searing Blood
 Searing Blood
 Secret Plans
 Seek the Horizon
@@ -1799,9 +1929,11 @@ Servant of Tymaret
 Servant of Tymaret
 Servant of Tymaret
 Set Adrift
+Setessan Battle Preist
 Setessan Battle Priest
 Setessan Oathsworn
 Setessan Oathsworn
+Setessan Starbreaker
 Setessan Starbreaker
 Setessan Starbreaker
 Setessan Starbreaker
@@ -1820,11 +1952,14 @@ Shield of the Avatar
 Shield of the Avatar
 Shielded Passage
 Shielded Passage
+Shipwreck Singer
 Shivan Dragon
 Shock
 Shock
 Shrapnel Blast
 Shrivel
+Sidisi's Pet
+Sidisi's Pet
 Sidisi's Pet
 Siege Wurm
 Siege Wurm
@@ -1840,8 +1975,10 @@ Sign in Blood
 Sign in Blood
 Sign in Blood
 Silence the Believers
+Silent Artisan
 Silent Sentinel
 Simic Guildgate
+Singing Bell Strike
 Singing Bell Strike
 Sinister Possession
 Sip of Hemlock
@@ -1868,6 +2005,10 @@ Smelt-Ward Gatekeepers
 Smite the Monstrous
 Smoke Teller
 Smoke Teller
+Smoke Teller
+Snake of the Golden Grove
+Snake of the Golden Grove
+Snake of the Golden Grove
 Solemn Offering
 Solemn Offering
 Solemn Offering
@@ -1885,11 +2026,13 @@ Spell Rupture
 Sphinx's Disciple
 Sphinx's Disciple
 Sphinx's Disciple
+Sphinx's Disciple
 Spike Jester
 Spire Tracer
 Spirespine
 Spirit of the Labyrinth
 Spiteful Blow
+Spiteful Returned
 Spiteful Returned
 Spiteful Returned
 Sporemound
@@ -1966,6 +2109,9 @@ Supply-Line Cranes
 Supply-Line Cranes
 Suspension Field
 Suspension Field
+Suspension Field
+Swamp
+Swamp
 Swamp
 Swamp
 Swamp
@@ -2100,6 +2246,8 @@ Swarmborn Giant
 Swarmborn Giant
 Swiftwater Cliffs
 Swordwise Centaur
+Swordwise Centaur
+Swordwise Centaur
 Taigam's Scheming
 Taigam's Scheming
 Taigam's Scheming
@@ -2124,6 +2272,7 @@ Thassa's Devourer
 Thassa's Ire
 Thassa's Rebuff
 Thassa's Rebuff
+Thassa's Rebuff
 Thespian's Stage
 Thornwood Falls
 Thornwood Falls
@@ -2134,10 +2283,13 @@ Throttle
 Throttle
 Throttle
 Thunder Brute
+Thunder Brute
 Thunder Strike
 Thunder Strike
 Time to Feed
 Time to Feed
+Time to Feed
+Timely Hordemate
 Tireless Missionaries
 Tireless Missionaries
 Tireless Missionaries
@@ -2158,6 +2310,7 @@ Torch Fiend
 Torch Fiend
 Torch Fiend
 Tormented Thoughts
+Tormented Thoughts
 Tormenting Voice
 Totally Lost
 Tower Drake
@@ -2166,12 +2319,14 @@ Towering Thunderfist
 Trained Condor
 Tranquil Cove
 Tranquil Cove
+Tranquil Cove
 Transguild Promenade
 Transguild Promenade
 Transguild Promenade
 Transguild Promenade
 Trap Essence
 Traveler's Amulet
+Treasure Cruise
 Treasure Cruise
 Treasure Cruise
 Triplicate Spirits
@@ -2197,6 +2352,7 @@ Turn to Frog
 Turn to Frog
 Turn to Frog
 Tusked Colossodon
+Tusked Colossodon
 Twisted Abomination
 Two-Headed Cerberus
 Two-Headed Cerberus
@@ -2219,6 +2375,7 @@ Unmake the Graves
 Unmake the Graves
 Unmake the Graves
 Unravel the Æther
+Unyielding Krumar
 Unyielding Krumar
 Urban Burgeoning
 Urban Burgeoning
@@ -2262,6 +2419,8 @@ Voyage's End
 Voyaging Satyr
 Voyaging Satyr
 Voyaging Satyr
+Voyaging Satyr
+Voyaging Satyr
 Vulpine Goliath
 Wake the Reflections
 Walking Corpse
@@ -2282,6 +2441,8 @@ Wall of Mulch
 Wall of Mulch
 War Behemoth
 War Behemoth
+War Behemoth
+War-Wing Siren
 War-Wing Siren
 Warchanter of Mogis
 Warden of the Beyond
@@ -2290,6 +2451,7 @@ Warden of the Eye
 Warleader's Helix
 Watcher of the Roost
 Water Servant
+Waterwhirl
 Waterwhirl
 Way of the Thief
 Way of the Thief
@@ -2308,6 +2470,7 @@ Wetland Sambar
 Whelming Wave
 Whims of the Fates
 Whirlwind Adept
+Whirlwind Adept
 Whitewater Naiads
 Whitewater Naiads
 Wildfire Cerberus
@@ -2321,6 +2484,8 @@ Wind Drake
 Wind Drake
 Wind-Scarred Crag
 Windstorm
+Windstorm
+Windswept Heath
 Wingsteed Rider
 Witch's Familiar
 Witches' Eye
@@ -2335,6 +2500,7 @@ Wring Flesh
 Xathrid Necromancer
 Xathrid Slyblade
 Xenagos, God of Revels
+Xenagos, the Reveler
 Yisan, the Wanderer Bard
 Zhur-Taa Swine
 Zof Shade
