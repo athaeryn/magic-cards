@@ -1222,7 +1222,7 @@ Minotaur Skullcleaver
 Minotaur Skullcleaver
 Mischief and Mayhem
 Mischief and Mayhem
-Mistcutter Hyrda
+Mistcutter Hydra
 Mogis's Marauder
 Mogis's Warhound
 Molting Snakeskin
@@ -1929,7 +1929,7 @@ Servant of Tymaret
 Servant of Tymaret
 Servant of Tymaret
 Set Adrift
-Setessan Battle Preist
+Setessan Battle Priest
 Setessan Battle Priest
 Setessan Oathsworn
 Setessan Oathsworn
