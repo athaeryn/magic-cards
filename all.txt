@@ -1,6 +1,7 @@
 Ætherspouts
 Abomination of Gudul
 Abomination of Gudul
+Abundant Growth
 Abzan Banner
 Abzan Guide
 Abzan Guide
@@ -11,6 +12,7 @@ Accursed Spirit
 Accursed Spirit
 Accursed Spirit
 Accursed Spirit
+Acidic Slime
 Act of Treason
 Act of Treason
 Act of Treason
@@ -102,6 +104,7 @@ Awaken the Bear
 Awe for the Guilds
 Awe for the Guilds
 Axebane Stag
+Azorius Guildgate
 Balustrade Spy
 Balustrade Spy
 Bane Alley Blackguard
@@ -175,6 +178,7 @@ Boros Battleshaper
 Boros Cluestone
 Boros Cluestone
 Boros Cluestone
+Boros Guildgate
 Boulderfall
 Boulderfall
 Bow of Nylea
@@ -203,6 +207,7 @@ Burst of Strength
 Cancel
 Cancel
 Capashen Knight
+Caravan Vigil
 Carnivorous Moss-Beast
 Carrion Crow
 Cartel Aristocrat
@@ -307,6 +312,7 @@ Culling Mark
 Culling Mark
 Culling Mark
 Culling Mark
+Cultivate
 Cyclops Tyrant
 Cyclops Tyrant
 Cyclops of One-Eyed Pass
@@ -314,6 +320,7 @@ Cyclops of One-Eyed Pass
 Cyclops of One-Eyed Pass
 Cyclops of One-Eyed Pass
 Daring Thief
+Darksteel Ingot
 Dauntless Onslaught
 Dawn to Dusk
 Dawnstrike Paladin
@@ -351,7 +358,9 @@ Diffusion Sliver
 Diffusion Sliver
 Diffusion Sliver
 Dig Through Time
+Diligent Farmhand
 Dimir Cluestone
+Dimir Guildgate
 Dimir Guildgate
 Dimir Guildgate
 Disciple of Deceit
@@ -452,6 +461,7 @@ Evolving Wilds
 Evolving Wilds
 Evolving Wilds
 Evolving Wilds
+Evolving Wilds
 Excoriate
 Excoriate
 Excoriate
@@ -469,6 +479,8 @@ Fanatic of Xenagos
 Fanatic of Xenagos
 Fanatic of Xenagos
 Fanatic of Xenagos
+Farhaven Elf
+Farseek
 Fate Foretold
 Fate Unraveler
 Fated Intervention
@@ -733,6 +745,7 @@ Furious Resistance
 Furnace Whelp
 Gamekeeper
 Garruk's Packleader
+Gatecreeper Vine
 Gather Courage
 Gather Courage
 Gather Courage
@@ -777,6 +790,7 @@ Godhunter Octopus
 Gods Willing
 Golden Hind
 Golgari Cluestone
+Golgari Guildgate
 Golgari Longlegs
 Gravedigger
 Great Hart
@@ -808,6 +822,7 @@ Groundshaker Sliver
 Groundshaker Sliver
 Groundshaker Sliver
 Gruul Cluestone
+Gruul Guildgate
 Gruul War Chant
 Guardians of Meletis
 Guardians of Meletis
@@ -839,6 +854,7 @@ Hooting Mandrills
 Hopeful Eidolon
 Horde Ambusher
 Horizon Scholar
+Horned Sliver
 Hornet Queen
 Horror of the Dim
 Hot Soup
@@ -1027,6 +1043,7 @@ Ivorytusk Fortress
 Ivorytusk Fortress
 Ivy Lane Denizen
 Izzet Cluestone
+Izzet Guildgate
 Jace's Ingenuity
 Jace's Ingenuity
 Jace's Mindseeker
@@ -1095,6 +1112,7 @@ Launch Party
 Lava Axe
 Lava Axe
 Lava Axe
+Lay of the Land
 Leaping Master
 Leaping Master
 Leaping Master
@@ -1744,6 +1762,7 @@ Raise the Alarm
 Raise the Alarm
 Raise the Alarm
 Rakdos Cluestone
+Rakdos Guildgate
 Rakdos Ringleader
 Rakshasa Deathdealer
 Rakshasa Deathdealer
@@ -1751,8 +1770,10 @@ Rakshasa Vizier
 Rakshasa's Secret
 Rakshasa's Secret
 Rakshasa's Secret
+Rampant Growth
 Ranger's Guile
 Ranger's Guile
+Ranger's Path
 Rapid Hybridization
 Ravenous Leucrocota
 Ravenous Leucrocota
@@ -1774,6 +1795,7 @@ Reflecting Pool
 Regathan Firecat
 Regathan Firecat
 Release
+Renewal
 Renowned Weaver
 Reprisal
 Reprisal
@@ -1907,6 +1929,7 @@ Seismic Stomp
 Seismic Strike
 Selesnya Cluestone
 Selesnya Guildgate
+Selesnya Guildgate
 Selfless Cathar
 Selfless Cathar
 Selfless Cathar
@@ -1938,6 +1961,7 @@ Setessan Starbreaker
 Setessan Starbreaker
 Setessan Starbreaker
 Setessan Tactics
+Shadow Sliver
 Shadowcloak Vampire
 Shaman of Spring
 Shaman of Spring
@@ -1977,6 +2001,7 @@ Sign in Blood
 Silence the Believers
 Silent Artisan
 Silent Sentinel
+Simic Guildgate
 Simic Guildgate
 Singing Bell Strike
 Singing Bell Strike
@@ -2248,6 +2273,10 @@ Swiftwater Cliffs
 Swordwise Centaur
 Swordwise Centaur
 Swordwise Centaur
+Sylvan Bounty
+Sylvan Ranger
+Sylvok Explorer
+Synchronous Sliver
 Taigam's Scheming
 Taigam's Scheming
 Taigam's Scheming
@@ -2264,6 +2293,7 @@ Tenacious Dead
 Tenacious Dead
 Tenement Crasher
 Terra Stomper
+Terramorphic Expanse
 Thassa's Bounty
 Thassa's Devourer
 Thassa's Devourer
@@ -2326,6 +2356,7 @@ Transguild Promenade
 Transguild Promenade
 Trap Essence
 Traveler's Amulet
+Traveler's Amulet
 Treasure Cruise
 Treasure Cruise
 Treasure Cruise
@@ -2371,10 +2402,12 @@ Undergrowth Scavenger
 Undergrowth Scavenger
 Underworld Coinsmith
 Unknown Shores
+Unknown Shores
 Unmake the Graves
 Unmake the Graves
 Unmake the Graves
 Unravel the Æther
+Untamed Wilds
 Unyielding Krumar
 Unyielding Krumar
 Urban Burgeoning
@@ -2439,6 +2472,7 @@ Wall of Limbs
 Wall of Limbs
 Wall of Mulch
 Wall of Mulch
+Wanderer's Twig
 War Behemoth
 War Behemoth
 War Behemoth
@@ -2456,6 +2490,7 @@ Waterwhirl
 Way of the Thief
 Way of the Thief
 Way of the Thief
+Wayfarer's Bauble
 Wear
 Weave Fate
 Weight of the Underworld
