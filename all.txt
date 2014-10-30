@@ -3,6 +3,7 @@ Abomination of Gudul
 Abomination of Gudul
 Abundant Growth
 Abzan Banner
+Abzan Charm
 Abzan Guide
 Abzan Guide
 Accorder's Shield
@@ -32,6 +33,7 @@ Aerie Worshippers
 Aeronaut Tinkerer
 Aeronaut Tinkerer
 Agent of Erebos
+Ainok Bond-Kin
 Ainok Bond-Kin
 Ainok Tracker
 Ajani Steadfast
@@ -332,6 +334,7 @@ Deadly Recluse
 Deathcult Rogue
 Deathgaze Cockatrice
 Debilitating Injury
+Debilitating Injury
 Debtor's Pulpit
 Defiant Strike
 Defiant Strike
@@ -394,6 +397,7 @@ Doomwake Giant
 Doorkeeper
 Doorkeeper
 Downpour
+Dragon Grip
 Dragon Hatchling
 Dragon Hatchling
 Dragon Mantle
@@ -718,6 +722,7 @@ Forest
 Forest
 Forest
 Forest
+Forest
 Forge Devil
 Forge Devil
 Forlorn Pseudamma
@@ -832,6 +837,7 @@ Hamletback Goliath
 Hammerhand
 Hammerhand
 Haunter of Nightveil
+Heart-Piercer Bow
 Heir of the Wilds
 Heir of the Wilds
 Heliod's Pilgrim
@@ -841,6 +847,7 @@ Heroes' Reunion
 Hidden Strings
 Hidden Strings
 High Sentinels of Arashin
+Highland Game
 Highland Game
 Highland Game
 Highland Game
@@ -1039,6 +1046,7 @@ Island
 Island
 Island
 Island
+Ivorytusk Fortress
 Ivorytusk Fortress
 Ivorytusk Fortress
 Ivy Lane Denizen
@@ -1848,6 +1856,7 @@ Rotted Hulk
 Rotting Mastodon
 Rotting Mastodon
 Rotting Mastodon
+Rotting Mastodon
 Rouse the Mob
 Rouse the Mob
 Rouse the Mob
@@ -1899,6 +1908,7 @@ Satyr Wayfinder
 Satyr Wayfinder
 Satyr Wayfinder
 Savage Knuckleblade
+Savage Punch
 Scaldkin
 Scaled Wurm
 Scatter Arc
@@ -1971,6 +1981,7 @@ Shambling Attendants
 Shatter
 Shatter
 Shatter
+Shatter
 Shattering Blow
 Shield of the Avatar
 Shield of the Avatar
@@ -2028,6 +2039,7 @@ Sliver Hivelord
 Sliver Hivelord
 Smelt-Ward Gatekeepers
 Smite the Monstrous
+Smoke Teller
 Smoke Teller
 Smoke Teller
 Smoke Teller
@@ -2350,6 +2362,7 @@ Trained Condor
 Tranquil Cove
 Tranquil Cove
 Tranquil Cove
+Tranquil Cove
 Transguild Promenade
 Transguild Promenade
 Transguild Promenade
@@ -2502,8 +2515,10 @@ Welkin Tern
 Well
 Wetland Sambar
 Wetland Sambar
+Wetland Sambar
 Whelming Wave
 Whims of the Fates
+Whirlwind Adept
 Whirlwind Adept
 Whirlwind Adept
 Whitewater Naiads
