@@ -1,8 +1,13 @@
 Ætherspouts
 Abomination of Gudul
 Abomination of Gudul
+Abomination of Gudul
+Abomination of Gudul
 Abundant Growth
 Abzan Banner
+Abzan Banner
+Abzan Banner
+Abzan Charm
 Abzan Charm
 Abzan Guide
 Abzan Guide
@@ -19,10 +24,12 @@ Act of Treason
 Act of Treason
 Act of Treason
 Act of Treason
+Act of Treason
 Act on Impulse
 Act on Impulse
 Act on Impulse
 Act on Impulse
+Advocate of the Beast
 Advocate of the Beast
 Aegis Angel
 Aerial Formation
@@ -32,9 +39,14 @@ Aerial Predation
 Aerie Worshippers
 Aeronaut Tinkerer
 Aeronaut Tinkerer
+Aeronaut Tinkerer
+Aeronaut Tinkerer
 Agent of Erebos
 Ainok Bond-Kin
 Ainok Bond-Kin
+Ainok Bond-Kin
+Ainok Tracker
+Ainok Tracker
 Ainok Tracker
 Ajani Steadfast
 Ajani's Presence
@@ -53,6 +65,8 @@ Akroan Phalanx
 Akroan Skyguard
 Akroan Skyguard
 Alabaster Kirin
+Alabaster Kirin
+Alabaster Kirin
 Alive
 Alpine Grizzly
 Alpine Grizzly
@@ -67,6 +81,8 @@ Amphin Pathmage
 Amphin Pathmage
 Amphin Pathmage
 Ancient Silverback
+Ancient Silverback
+Angelic Accord
 Angelic Edict
 Angelic Edict
 Angelic Wall
@@ -78,10 +94,12 @@ Arc Lightning
 Arc Lightning
 Archaeomancer
 Archaeomancer
+Archers' Parapet
 Archetype of Finality
 Armament of Nyx
 Armament of Nyx
 Armament of Nyx
+Armored Cancrix
 Arrest
 Arrow Storm
 Arrow Storm
@@ -99,7 +117,10 @@ Assault Griffin
 Athreos, God of Passage
 Attended Knight
 Avacyn, Guardian Angel
+Avarice Amulet
 Avenging Arrow
+Awaken the Bear
+Awaken the Bear
 Awaken the Bear
 Awaken the Bear
 Awaken the Bear
@@ -112,6 +133,7 @@ Balustrade Spy
 Bane Alley Blackguard
 Bane Alley Broker
 Banishing Light
+Barrage of Boulders
 Barrage of Boulders
 Barrage of Boulders
 Barrage of Boulders
@@ -133,6 +155,7 @@ Beetleform Mage
 Belligerent Sliver
 Bile Blight
 Bitter Revelation
+Bitter Revelation
 Black Cat
 Black Cat
 Black Cat
@@ -141,6 +164,7 @@ Black Cat
 Black Oak of Odunos
 Bladetusk Boar
 Bladetusk Boar
+Blastfire Bolt
 Blastfire Bolt
 Blastfire Bolt
 Blaze Commando
@@ -157,6 +181,7 @@ Bloodfell Caves
 Bloodfire Expert
 Bloodfire Mentor
 Bloodfire Mentor
+Bloodfire Mentor
 Bloodstained Mire
 Bloodthrone Vampire
 Blossoming Sands
@@ -170,10 +195,12 @@ Blur Sliver
 Blur Sliver
 Blur Sliver
 Blur Sliver
+Blur Sliver
 Bolt of Keranos
 Bolt of Keranos
 Boonweaver Giant
 Boonweaver Giant
+Borderland Marauder
 Borderland Marauder
 Borderland Marauder
 Boros Battleshaper
@@ -191,6 +218,7 @@ Breaching Hippocamp
 Breakthrough
 Breakthrough
 Briarpack Alpha
+Briber's Purse
 Brimaz, King of Oreskos
 Brindle Boar
 Brindle Boar
@@ -208,6 +236,9 @@ Burn Away
 Burst of Strength
 Cancel
 Cancel
+Cancel
+Canyon Lurkers
+Canyon Lurkers
 Capashen Knight
 Caravan Vigil
 Carnivorous Moss-Beast
@@ -231,6 +262,7 @@ Centaur Courser
 Centaur's Herald
 Chained to the Rocks
 Chandra's Outrage
+Chandra, Pyromaster
 Charging Badger
 Charging Badger
 Charging Badger
@@ -252,6 +284,8 @@ Chosen by Heliod
 Chosen by Heliod
 Chronostutter
 Chronostutter
+Chronostutter
+Circle of Flame
 Circle of Flame
 Circle of Flame
 Civic Saber
@@ -274,6 +308,7 @@ Cogwork Tracker
 Colossal Heroics
 Colossal Heroics
 Common Bond
+Cone of Flame
 Congregate
 Congregate
 Constricting Sliver
@@ -294,12 +329,16 @@ Covenant of Blood
 Covenant of Blood
 Covenant of Blood
 Crackling Doom
+Crackling Doom
 Crackling Perimeter
+Cranial Archive
 Cranial Archive
 Crippling Blight
 Crippling Blight
 Crippling Blight
 Crippling Blight
+Crippling Chill
+Crippling Chill
 Crippling Chill
 Crookclaw Transmuter
 Crowd's Favor
@@ -330,9 +369,13 @@ Dawnstrike Paladin
 Dazzling Ramparts
 Dead Drop
 Dead Drop
+Dead Drop
+Dead Drop
 Deadly Recluse
+Death Frenzy
 Deathcult Rogue
 Deathgaze Cockatrice
+Debilitating Injury
 Debilitating Injury
 Debilitating Injury
 Debtor's Pulpit
@@ -370,6 +413,8 @@ Disciple of Deceit
 Disciple of Deceit
 Disciple of the Old Ways
 Disdainful Stroke
+Disdainful Stroke
+Dismal Backwater
 Dismal Backwater
 Dismal Backwater
 Dismal Backwater
@@ -398,10 +443,13 @@ Doorkeeper
 Doorkeeper
 Downpour
 Dragon Grip
+Dragon Grip
+Dragon Grip
 Dragon Hatchling
 Dragon Hatchling
 Dragon Mantle
 Dragon Mantle
+Dragonscale Boon
 Dragonskull Summit
 Drainpipe Vermin
 Drainpipe Vermin
@@ -416,6 +464,7 @@ Eagle of the Watch
 Eagle of the Watch
 Eagle of the Watch
 Edric, Spymaster of Trest
+Efreet Weaponmaster
 Efreet Weaponmaster
 Efreet Weaponmaster
 Efreet Weaponmaster
@@ -434,6 +483,7 @@ Embodiment of Spring
 Embodiment of Spring
 Embodiment of Spring
 Embodiment of Spring
+Embodiment of Spring
 Encroaching Wastes
 Encrust
 End Hostilities
@@ -442,9 +492,12 @@ Ephara's Radiance
 Ephara's Radiance
 Ephara's Radiance
 Ephara's Radiance
+Ephemeral Shields
 Epiphany Storm
 Epiphany Storm
 Epiphany Storm
+Erase
+Erase
 Erase
 Erase
 Erase
@@ -527,6 +580,8 @@ Flesh to Dust
 Flesh to Dust
 Flesh to Dust
 Flesh to Dust
+Flesh to Dust
+Flesh to Dust
 Floodtide Serpent
 Floodtide Serpent
 Flurry of Horns
@@ -546,6 +601,7 @@ Font of Vigor
 Font of Vigor
 Font of Vigor
 Font of Vigor
+Force Away
 Force Away
 Force Away
 Forced Adaptation
@@ -723,12 +779,16 @@ Forest
 Forest
 Forest
 Forest
+Forest
+Forest
+Forge Devil
 Forge Devil
 Forge Devil
 Forlorn Pseudamma
 Forlorn Pseudamma
 Forlorn Pseudamma
 Forsaken Drifters
+Fortify
 Fortify
 Fortify
 Fortify
@@ -740,6 +800,7 @@ Frenzied Tilling
 Frontier Bivouac
 Frost Breath
 Frost Breath
+Frost Lynx
 Frost Lynx
 Frost Lynx
 Frost Lynx
@@ -759,6 +820,7 @@ Generator Servant
 Generator Servant
 Generator Servant
 Generator Servant
+Generator Servant
 Genesis Hydra
 Ghor-Clan Rampager
 Ghor-Clan Rampager
@@ -769,6 +831,8 @@ Giant Spider
 Glacial Crasher
 Glacial Crasher
 Glacial Crasher
+Glacial Crasher
+Glacial Stalker
 Glacial Stalker
 Glacial Stalker
 Gladecover Scout
@@ -785,6 +849,7 @@ Goblin Rabblemaster
 Goblin Rabblemaster
 Goblin Rally
 Goblin Shortcutter
+Goblinslide
 Goblinslide
 God-Favored General
 God-Favored General
@@ -836,8 +901,10 @@ Guttersnipe
 Hamletback Goliath
 Hammerhand
 Hammerhand
+Hammerhand
 Haunter of Nightveil
 Heart-Piercer Bow
+Heir of the Wilds
 Heir of the Wilds
 Heir of the Wilds
 Heliod's Pilgrim
@@ -856,6 +923,7 @@ Hoarding Dragon
 Hold at Bay
 Hold at Bay
 Hold the Gates
+Hooded Hydra
 Hooting Mandrills
 Hooting Mandrills
 Hopeful Eidolon
@@ -886,6 +954,7 @@ Hydrosurge
 Hydrosurge
 Hydrosurge
 Icefeather Aven
+Icefeather Aven
 Icy Blast
 Ill-Tempered Cyclops
 Ill-Tempered Cyclops
@@ -915,6 +984,10 @@ Invasive Species
 Invasive Species
 Invisibility
 Invisibility
+Invisibility
+Island
+Island
+Island
 Island
 Island
 Island
@@ -1054,19 +1127,30 @@ Izzet Cluestone
 Izzet Guildgate
 Jace's Ingenuity
 Jace's Ingenuity
+Jace's Ingenuity
 Jace's Mindseeker
+Jeering Instigator
 Jeskai Banner
 Jeskai Banner
 Jeskai Banner
+Jeskai Banner
+Jeskai Banner
+Jeskai Charm
 Jeskai Elder
 Jeskai Student
 Jeskai Student
+Jeskai Student
+Jeskai Student
+Jeskai Windscout
+Jeskai Windscout
 Juggernaut
+Jungle Hollow
 Jungle Hollow
 Jungle Hollow
 Kalonian Tusker
 Kalonian Twingrove
 Kalonian Twingrove
+Kapsho Kitefins
 Kapsho Kitefins
 Kapsho Kitefins
 Karametra's Acolyte
@@ -1075,15 +1159,19 @@ Karametra's Acolyte
 Karametra's Favor
 Kheru Dreadmaw
 Kheru Dreadmaw
+Kheru Lich Lord
+Kill Shot
 Kill Shot
 Kill Shot
 Kin-Tree Invocation
 Kin-Tree Warden
 Kin-Tree Warden
 Kin-Tree Warden
+Kin-Tree Warden
 King Macar, the Gold-Cursed
 Kingpin's Pet
 Kingpin's Pet
+Kinsbaile Skirmisher
 Kinsbaile Skirmisher
 Kinsbaile Skirmisher
 Kinsbaile Skirmisher
@@ -1105,6 +1193,8 @@ Krenko's Enforcer
 Krenko's Enforcer
 Krenko's Enforcer
 Krenko's Enforcer
+Krumar Bond-Kin
+Krumar Bond-Kin
 Krumar Bond-Kin
 Kurkesh, Onakke Ancient
 Lagonna-Band Elder
@@ -1130,8 +1220,10 @@ Leaping Master
 Leeching Sliver
 Leeching Sliver
 Lens of Clarity
+Lens of Clarity
 Leonin Iconoclast
 Leonin Snarecaster
+Lightning Strike
 Lightning Strike
 Lightning Strike
 Lightning Strike
@@ -1148,6 +1240,7 @@ Liliana's Reaver
 Liturgy of Blood
 Liturgy of Blood
 Liturgy of Blood
+Living Totem
 Living Totem
 Living Totem
 Living Totem
@@ -1169,6 +1262,7 @@ Mana Geyser
 Manaweft Sliver
 Manaweft Sliver
 Manaweft Sliver
+Mantis Rider
 Marauding Maulhorn
 March of the Returned
 March of the Returned
@@ -1180,6 +1274,8 @@ Mardu Blazebringer
 Mardu Hateblade
 Mardu Hateblade
 Mardu Hateblade
+Mardu Hateblade
+Mardu Hateblade
 Mardu Hordechief
 Mardu Hordechief
 Mardu Roughrider
@@ -1189,6 +1285,9 @@ Mardu Skullhunter
 Mardu Skullhunter
 Mardu Warshrieker
 Mardu Warshrieker
+Mardu Warshrieker
+Mardu Warshrieker
+Mark of the Vampire
 Mark of the Vampire
 Marked by Honor
 Marked by Honor
@@ -1204,6 +1303,7 @@ Master of Pearls
 Master of Predicaments
 Master of the Feast
 Master of the Feast
+Master the Way
 Master the Way
 Maw of the Obzedat
 Maze Abomination
@@ -1222,6 +1322,7 @@ Messenger Drake
 Messenger's Speed
 Messenger's Speed
 Messenger's Speed
+Meteorite
 Meteorite
 Midnight Guard
 Midnight Guard
@@ -1251,6 +1352,8 @@ Mischief and Mayhem
 Mistcutter Hydra
 Mogis's Marauder
 Mogis's Warhound
+Molting Snakeskin
+Molting Snakeskin
 Molting Snakeskin
 Molting Snakeskin
 Molting Snakeskin
@@ -1415,13 +1518,19 @@ Mountain
 Mountain
 Mountain
 Mountain
+Mountain
+Mountain
 Mugging
 Murderous Cut
 Murderous Cut
 Mutant's Prey
 Muzzio's Preparations
 Mystic Monastery
+Mystic Monastery
 Mystic of the Hidden Way
+Mystic of the Hidden Way
+Naturalize
+Naturalize
 Naturalize
 Naturalize
 Naturalize
@@ -1440,6 +1549,7 @@ Necromancer's Assistant
 Necromancer's Assistant
 Necromancer's Assistant
 Necromancer's Assistant
+Necropolis Fiend
 Necropolis Fiend
 Negate
 Negate
@@ -1524,6 +1634,7 @@ Oreskos Swiftclaw
 Oreskos Swiftclaw
 Oreskos Swiftclaw
 Oreskos Swiftclaw
+Oreskos Swiftclaw
 Ornitharch
 Ornithopter
 Ornithopter
@@ -1549,6 +1660,7 @@ Paralyzing Grasp
 Paranoid Delusions
 Paranoid Delusions
 Pay No Heed
+Pay No Heed
 Peak Eruption
 Peel from Reality
 Peel from Reality
@@ -1572,6 +1684,7 @@ Pheres-Band Centaurs
 Pheres-Band Thunderhoof
 Pheres-Band Tromper
 Phytotitan
+Phytotitan
 Pilfered Plans
 Pilfered Plans
 Pillar of Light
@@ -1580,6 +1693,7 @@ Pin to the Earth
 Pin to the Earth
 Pin to the Earth
 Pine Walker
+Pine Walker
 Pinnacle of Rage
 Pinnacle of Rage
 Pitchburn Devils
@@ -1587,6 +1701,10 @@ Pitchburn Devils
 Pitchburn Devils
 Pitchburn Devils
 Pithing Needle
+Plains
+Plains
+Plains
+Plains
 Plains
 Plains
 Plains
@@ -1729,6 +1847,7 @@ Ponyback Brigade
 Ponyback Brigade
 Ponyback Brigade
 Ponyback Brigade
+Ponyback Brigade
 Portent of Betrayal
 Predator's Rapport
 Predatory Sliver
@@ -1762,6 +1881,7 @@ Radiant Fountain
 Radiant Fountain
 Radiant Fountain
 Radiant Fountain
+Radiant Fountain
 Rage of Purphoros
 Ragemonger
 Raise the Alarm
@@ -1779,6 +1899,7 @@ Rakshasa's Secret
 Rakshasa's Secret
 Rakshasa's Secret
 Rampant Growth
+Ranger's Guile
 Ranger's Guile
 Ranger's Guile
 Ranger's Path
@@ -1836,6 +1957,7 @@ Rise of Eagles
 Rise to the Challenge
 Rise to the Challenge
 Rise to the Challenge
+Riverwheel Aerialists
 Roaring Primadox
 Roaring Primadox
 Roaring Primadox
@@ -1857,16 +1979,21 @@ Rotting Mastodon
 Rotting Mastodon
 Rotting Mastodon
 Rotting Mastodon
+Rotting Mastodon
 Rouse the Mob
 Rouse the Mob
 Rouse the Mob
 Rouse the Mob
 Rouse the Mob
 Rugged Highlands
+Rugged Highlands
+Rugged Highlands
+Rugged Highlands
 Rumbling Baloth
 Rummaging Goblin
 Rummaging Goblin
 Rummaging Goblin
+Rummaging Goblin
 Runeclaw Bear
 Runeclaw Bear
 Rush of Battle
@@ -1878,8 +2005,13 @@ Ruthless Ripper
 Ruthless Ripper
 Sacred Foundry
 Sacred Foundry
+Sage-Eye Harrier
+Sage-Eye Harrier
 Sagu Archer
 Salt Road Patrol
+Salt Road Patrol
+Sanctified Charge
+Sanctified Charge
 Sanctified Charge
 Sanctified Charge
 Sanctified Charge
@@ -1907,7 +2039,10 @@ Satyr Wayfinder
 Satyr Wayfinder
 Satyr Wayfinder
 Satyr Wayfinder
+Satyr Wayfinder
 Savage Knuckleblade
+Savage Punch
+Savage Punch
 Savage Punch
 Scaldkin
 Scaled Wurm
@@ -1918,8 +2053,11 @@ Scorchwalker
 Scoured Barrens
 Scoured Barrens
 Scoured Barrens
+Scoured Barrens
+Scoured Barrens
 Scouring Sands
 Scouring Sands
+Scout the Borders
 Scout the Borders
 Scout the Borders
 Scrapyard Mongrel
@@ -1935,6 +2073,7 @@ Searing Blood
 Searing Blood
 Secret Plans
 Seek the Horizon
+Seeker of the Way
 Seismic Stomp
 Seismic Strike
 Selesnya Cluestone
@@ -1951,6 +2090,7 @@ Sengir Vampire
 Sentinel Sliver
 Sentinel Sliver
 Sentinel Sliver
+Sentinel Sliver
 Seraph of the Masses
 Seraph of the Masses
 Seraph of the Masses
@@ -1962,6 +2102,7 @@ Servant of Tymaret
 Servant of Tymaret
 Servant of Tymaret
 Set Adrift
+Set Adrift
 Setessan Battle Priest
 Setessan Battle Priest
 Setessan Oathsworn
@@ -1972,12 +2113,15 @@ Setessan Starbreaker
 Setessan Starbreaker
 Setessan Tactics
 Shadow Sliver
+Shadowborn Apostle
 Shadowcloak Vampire
 Shaman of Spring
 Shaman of Spring
 Shambling Attendants
 Shambling Attendants
 Shambling Attendants
+Shambling Attendants
+Shatter
 Shatter
 Shatter
 Shatter
@@ -1993,9 +2137,12 @@ Shock
 Shock
 Shrapnel Blast
 Shrivel
+Shrivel
 Sidisi's Pet
 Sidisi's Pet
 Sidisi's Pet
+Sidisi's Pet
+Siege Wurm
 Siege Wurm
 Siege Wurm
 Siege Wurm
@@ -2009,11 +2156,14 @@ Sign in Blood
 Sign in Blood
 Sign in Blood
 Sign in Blood
+Sign in Blood
 Silence the Believers
 Silent Artisan
 Silent Sentinel
 Simic Guildgate
 Simic Guildgate
+Singing Bell Strike
+Singing Bell Strike
 Singing Bell Strike
 Singing Bell Strike
 Sinister Possession
@@ -2039,6 +2189,7 @@ Sliver Hivelord
 Sliver Hivelord
 Smelt-Ward Gatekeepers
 Smite the Monstrous
+Smite the Monstrous
 Smoke Teller
 Smoke Teller
 Smoke Teller
@@ -2046,6 +2197,7 @@ Smoke Teller
 Snake of the Golden Grove
 Snake of the Golden Grove
 Snake of the Golden Grove
+Snowhorn Rider
 Solemn Offering
 Solemn Offering
 Solemn Offering
@@ -2055,10 +2207,12 @@ Soulmender
 Soulmender
 Soulmender
 Soulmender
+Soulmender
 Spark Jolt
 Spear of Heliod
 Spearpoint Oread
 Species Gorger
+Spectra Ward
 Spell Rupture
 Sphinx's Disciple
 Sphinx's Disciple
@@ -2084,6 +2238,7 @@ Staff of the Flame Magus
 Staff of the Sun Magus
 Staff of the Sun Magus
 Staff of the Wild Magus
+Staff of the Wild Magus
 Stain the Mind
 Starfall
 Statute of Denial
@@ -2096,6 +2251,7 @@ Stealer of Secrets
 Steelform Sliver
 Steeple Roc
 Steeple Roc
+Stoke the Flames
 Stolen Identity
 Stoneshock Giant
 Stonewise Fortifier
@@ -2110,9 +2266,12 @@ Striking Sliver
 Striking Sliver
 Structural Collapse
 Stubborn Denial
+Stubborn Denial
 Sudden Storm
 Sudden Storm
 Sudden Storm
+Sultai Banner
+Sultai Banner
 Sultai Banner
 Sultai Banner
 Sultai Banner
@@ -2123,10 +2282,14 @@ Sultai Scavenger
 Sultai Scavenger
 Sultai Scavenger
 Sultai Scavenger
+Sultai Scavenger
+Sultai Soothsayer
 Sultai Soothsayer
 Sultai Soothsayer
 Summit Prowler
 Summit Prowler
+Summit Prowler
+Sunblade Elf
 Sunblade Elf
 Sunblade Elf
 Sunblade Elf
@@ -2277,6 +2440,9 @@ Swamp
 Swamp
 Swamp
 Swamp
+Swamp
+Swamp
+Swarm of Bloodflies
 Swarm of Bloodflies
 Swarm of Bloodflies
 Swarmborn Giant
@@ -2295,6 +2461,9 @@ Taigam's Scheming
 Taigam's Scheming
 Taigam's Scheming
 Taigam's Scheming
+Taigam's Scheming
+Taigam's Scheming
+Take Up Arms
 Take Up Arms
 Tear
 Temple of Enlightenment
@@ -2318,12 +2487,15 @@ Thassa's Rebuff
 Thespian's Stage
 Thornwood Falls
 Thornwood Falls
+Thornwood Falls
+Thornwood Falls
 Thoughtrender Lamia
 Thrashing Mossdog
 Throttle
 Throttle
 Throttle
 Throttle
+Throttle
 Thunder Brute
 Thunder Brute
 Thunder Strike
@@ -2331,6 +2503,8 @@ Thunder Strike
 Time to Feed
 Time to Feed
 Time to Feed
+Timely Hordemate
+Timely Hordemate
 Timely Hordemate
 Tireless Missionaries
 Tireless Missionaries
@@ -2345,6 +2519,7 @@ Tithe Drinker
 Toil
 Toil
 Tomb of the Spirit Dragon
+Tomb of the Spirit Dragon
 Tome Scour
 Tome Scour
 Tome Scour
@@ -2354,10 +2529,14 @@ Torch Fiend
 Tormented Thoughts
 Tormented Thoughts
 Tormenting Voice
+Tormenting Voice
+Tormod's Crypt
 Totally Lost
 Tower Drake
 Towering Indrik
 Towering Thunderfist
+Trail of Mystery
+Trained Condor
 Trained Condor
 Tranquil Cove
 Tranquil Cove
@@ -2370,6 +2549,8 @@ Transguild Promenade
 Trap Essence
 Traveler's Amulet
 Traveler's Amulet
+Treasure Cruise
+Treasure Cruise
 Treasure Cruise
 Treasure Cruise
 Treasure Cruise
@@ -2426,6 +2607,9 @@ Unyielding Krumar
 Urban Burgeoning
 Urban Burgeoning
 Urbis Protector
+Utter End
+Valley Dasher
+Valley Dasher
 Valley Dasher
 Valley Dasher
 Vanguard of Brimaz
@@ -2459,6 +2643,7 @@ Voice of Resurgence
 Void Snare
 Void Snare
 Voidwielder
+Volcanic Geyser
 Vortex Elemental
 Voyage's End
 Voyage's End
@@ -2489,6 +2674,7 @@ Wanderer's Twig
 War Behemoth
 War Behemoth
 War Behemoth
+War Behemoth
 War-Wing Siren
 War-Wing Siren
 Warchanter of Mogis
@@ -2516,6 +2702,7 @@ Well
 Wetland Sambar
 Wetland Sambar
 Wetland Sambar
+Wetland Sambar
 Whelming Wave
 Whims of the Fates
 Whirlwind Adept
@@ -2530,16 +2717,24 @@ Will-Forged Golem
 Will-Forged Golem
 Will-Forged Golem
 Will-Forged Golem
+Will-Forged Golem
 Wind Drake
 Wind Drake
 Wind-Scarred Crag
+Wind-Scarred Crag
+Windstorm
 Windstorm
 Windstorm
 Windswept Heath
 Wingsteed Rider
+Winterflame
+Witch's Familiar
 Witch's Familiar
 Witches' Eye
 Woodborn Behemoth
+Wooded Foothills
+Woolly Loxodon
+Woolly Loxodon
 Woolly Loxodon
 Woolly Loxodon
 Woolly Loxodon
