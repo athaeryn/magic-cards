@@ -1,0 +1,67 @@
+# From Magic 2015 Clash Pack
+
+# Creatures
+Elvish Mystic
+Elvish Mystic
+Elvish Mystic
+Elvish Mystic
+Generator Servant
+Generator Servant
+Voyaging Satyr
+Voyaging Satyr
+Nessian Courser
+Reclamation Sage
+Reclamation Sage
+Courser of Kruphix
+Ill-Tempered Cyclops
+Ill-Tempered Cyclops
+Karametra's Acolyte
+Karametra's Acolyte
+Karametra's Acolyte
+Nylea's Disciple
+Nylea's Disciple
+Nylea's Disciple
+Nessian Game Warden
+Nessian Game Warden
+Nessian Game Warden
+Arbor Colossus
+Hydra Broodmaster
+Nemesis of Mortals
+Nemesis of Mortals
+Genesis Hydra
+
+# Other Spells
+Font of Fertility
+Lightning Strike
+Lightning Strike
+Plummet
+Plummet
+Fated Intervention
+Boulderfall
+
+# Lands
+Nykthos, Shrine to Nyx
+Mountain
+Mountain
+Mountain
+Mountain
+Mountain
+Mountain
+Mountain
+Mountain
+Mountain
+Forest
+Forest
+Forest
+Forest
+Forest
+Forest
+Forest
+Forest
+Forest
+Forest
+Forest
+Forest
+Forest
+Forest
+Forest
