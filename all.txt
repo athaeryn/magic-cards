@@ -85,6 +85,7 @@ Amphin Pathmage
 Amphin Pathmage
 Ancient Silverback
 Ancient Silverback
+Ancient Silverback
 Angelic Accord
 Angelic Edict
 Angelic Edict
@@ -134,6 +135,7 @@ Awe for the Guilds
 Awe for the Guilds
 Axebane Stag
 Azorius Guildgate
+Back to Nature
 Back to Nature
 Baloth Woodcrasher
 Balustrade Spy
@@ -335,6 +337,7 @@ Coordinated Assault
 Coral Barrier
 Coral Barrier
 Coral Barrier
+Coral Barrier
 Corpse Blockade
 Corpse Hauler
 Corpse Hauler
@@ -527,6 +530,8 @@ Ephara's Radiance
 Ephara's Radiance
 Ephara's Radiance
 Ephemeral Shields
+Ephemeral Shields
+Ephemeral Shields
 Epiphany Storm
 Epiphany Storm
 Epiphany Storm
@@ -538,6 +543,7 @@ Erase
 Essence Drain
 Essence Scatter
 Eternal Dragon
+Eternal Thirst
 Eternal Thirst
 Eternal Thirst
 Eternity Snare
@@ -592,6 +598,7 @@ Feed the Clan
 Feed the Clan
 Felhide Brawler
 Felhide Minotaur
+Feral Incarnation
 Feral Incarnation
 Feral Incarnation
 Feral Invocation
@@ -872,6 +879,7 @@ Frost Lynx
 Frost Lynx
 Frost Lynx
 Frost Lynx
+Frost Lynx
 Fugitive Wizard
 Fugitive Wizard
 Furious Resistance
@@ -973,6 +981,7 @@ Hamletback Goliath
 Hammerhand
 Hammerhand
 Hammerhand
+Hammerhand
 Harmonize
 Haunter of Nightveil
 Heart-Piercer Bow
@@ -1060,9 +1069,11 @@ Invasive Species
 Invasive Species
 Invasive Species
 Invasive Species
+Invasive Species
 Invisibility
 Invisibility
 Invisibility
+Island
 Island
 Island
 Island
@@ -1249,6 +1260,7 @@ Kalonian Twingrove
 Kapsho Kitefins
 Kapsho Kitefins
 Kapsho Kitefins
+Kapsho Kitefins
 Karametra's Acolyte
 Karametra's Acolyte
 Karametra's Acolyte
@@ -1345,6 +1357,7 @@ Living Totem
 Living Totem
 Living Totem
 Living Totem
+Living Totem
 Llanowar Wastes
 Llanowar Wastes
 Loathsome Catoblepas
@@ -1403,6 +1416,7 @@ Master of Diversion
 Master of Diversion
 Master of Pearls
 Master of Predicaments
+Master of Predicaments
 Master of the Feast
 Master of the Feast
 Master the Way
@@ -1444,6 +1458,8 @@ Mind Rot
 Mind Rot
 Mind Rot
 Mind Sculpt
+Miner's Bane
+Miner's Bane
 Miner's Bane
 Minotaur Abomination
 Minotaur Abomination
@@ -1647,6 +1663,7 @@ Mountain
 Mountain
 Mountain
 Mountain
+Mountain
 Mugging
 Murderous Cut
 Murderous Cut
@@ -1669,6 +1686,7 @@ Nav Squad Commandos
 Naya Charm
 Naya Panorama
 Naya Soulbeast
+Necrobite
 Necrobite
 Necrobite
 Necrobite
@@ -2037,6 +2055,7 @@ Radiant Fountain
 Radiant Fountain
 Radiant Fountain
 Radiant Fountain
+Radiant Fountain
 Rage of Purphoros
 Ragemonger
 Rain of Thorns
@@ -2067,6 +2086,7 @@ Ravenous Leucrocota
 Ravenous Leucrocota
 Ravenous Leucrocota
 Ravenous Leucrocota
+Razorfoot Griffin
 Razorfoot Griffin
 Razorfoot Griffin
 Razorfoot Griffin
@@ -2156,6 +2176,7 @@ Rummaging Goblin
 Rummaging Goblin
 Rummaging Goblin
 Rummaging Goblin
+Runeclaw Bear
 Runeclaw Bear
 Runeclaw Bear
 Runeclaw Bear
@@ -2331,6 +2352,7 @@ Sign in Blood
 Sign in Blood
 Sign in Blood
 Sign in Blood
+Sign in Blood
 Silence the Believers
 Silent Artisan
 Silent Sentinel
@@ -2475,6 +2497,7 @@ Sultai Soothsayer
 Summit Prowler
 Summit Prowler
 Summit Prowler
+Sunblade Elf
 Sunblade Elf
 Sunblade Elf
 Sunblade Elf
@@ -2723,6 +2746,8 @@ Titanic Growth
 Titanic Growth
 Titanic Growth
 Titanic Growth
+Titanic Growth
+Titanic Growth
 Tithe Drinker
 Tithe Drinker
 Toil
@@ -2739,6 +2764,7 @@ Tormented Thoughts
 Tormented Thoughts
 Tormenting Voice
 Tormenting Voice
+Tormod's Crypt
 Tormod's Crypt
 Totally Lost
 Tower Drake
@@ -2796,6 +2822,7 @@ Two-Headed Cerberus
 Typhoid Rats
 Typhoid Rats
 Typhoid Rats
+Tyrant's Machine
 Tyrant's Machine
 Tyrant's Machine
 Ugin's Nexus
@@ -2953,6 +2980,8 @@ Winterflame
 Witch Hunt
 Witch's Familiar
 Witch's Familiar
+Witch's Familiar
+Witch's Familiar
 Witches' Eye
 Woodborn Behemoth
 Wooded Foothills
@@ -2970,6 +2999,7 @@ Xathrid Necromancer
 Xathrid Slyblade
 Xenagos, God of Revels
 Xenagos, the Reveler
+Yavimaya Coast
 Yisan, the Wanderer Bard
 Zhur-Taa Swine
 Zof Shade
