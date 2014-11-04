@@ -1,0 +1,65 @@
+# Creatures
+Foundry Street Denizen
+Foundry Street Denizen
+Foundry Street Denizen
+Frenzied Goblin
+Goblin Kaboomist
+Goblin Rabblemaster
+Goblin Rabblemaster
+Goblin Shortcutter
+Grenzo's Cutthroat
+Guttersnipe
+Jeering Instigator
+Krenko's Enforcer
+Krenko's Enforcer
+Krenko's Enforcer
+Krenko's Enforcer
+Ponyback Brigade
+Ponyback Brigade
+Ponyback Brigade
+Pyrewild Shaman
+Riot Piker
+Riot Piker
+Rummaging Goblin
+Rummaging Goblin
+Rummaging Goblin
+Rummaging Goblin
+Spike Jester
+
+# Other Spells
+Barrage of Expendables
+Chandra, Pyromaster
+Goblin Rally
+Goblinslide
+Lightning Strike
+Lightning Strike
+Lightning Strike
+Lightning Strike
+Scouring Sands
+Searing Blood
+Trumpet Blast
+Trumpet Blast
+Volcanic Geyser
+
+# Lands
+Bloodfell Caves
+Caves of Koilos
+Dragonskull Summit
+Mountain
+Mountain
+Mountain
+Mountain
+Mountain
+Mountain
+Mountain
+Mountain
+Mountain
+Mountain
+Mountain
+Mountain
+Mountain
+Mountain
+Sacred Foundry
+Sacred Foundry
+Scoured Barrens
+Scoured Barrens
