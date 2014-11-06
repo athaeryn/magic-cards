@@ -7,16 +7,12 @@ Goblin Kaboomist
 Goblin Rabblemaster
 Goblin Rabblemaster
 Goblin Shortcutter
-Grenzo's Cutthroat
 Guttersnipe
 Jeering Instigator
 Krenko's Enforcer
 Krenko's Enforcer
 Krenko's Enforcer
 Krenko's Enforcer
-Ponyback Brigade
-Ponyback Brigade
-Ponyback Brigade
 Pyrewild Shaman
 Riot Piker
 Riot Piker
@@ -24,7 +20,6 @@ Rummaging Goblin
 Rummaging Goblin
 Rummaging Goblin
 Rummaging Goblin
-Spike Jester
 
 # Other Spells
 Barrage of Expendables
@@ -40,11 +35,12 @@ Searing Blood
 Trumpet Blast
 Trumpet Blast
 Volcanic Geyser
+Hammerhand
+Hammerhand
+Hammerhand
+Hammerhand
 
 # Lands
-Bloodfell Caves
-Caves of Koilos
-Dragonskull Summit
 Mountain
 Mountain
 Mountain
@@ -59,7 +55,11 @@ Mountain
 Mountain
 Mountain
 Mountain
-Sacred Foundry
-Sacred Foundry
-Scoured Barrens
-Scoured Barrens
+Mountain
+Mountain
+Mountain
+Mountain
+Mountain
+Mountain
+Mountain
+Mountain
