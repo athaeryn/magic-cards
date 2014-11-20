@@ -1,6 +1,7 @@
 Accorder's Shield
 Claim of Erebos
 Excoriate
+Fate Unraveler
 Fated Intervention
 Feed the Clan
 Font of Fertility
@@ -12,6 +13,7 @@ Hydra Broodmaster
 Icy Blast
 Kin-Tree Warden
 Krenko's Enforcer
+Master of the Feast
 Master of the Feast
 Mending Touch
 Midnight Guard

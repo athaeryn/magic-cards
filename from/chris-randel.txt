@@ -15,6 +15,7 @@ Dimir Guildgate
 Evolving Wilds
 Farhaven Elf
 Farseek
+Galerider Sliver
 Gatecreeper Vine
 Golgari Guildgate
 Groundshaker Sliver
@@ -25,6 +26,8 @@ Izzet Guildgate
 Lay of the Land
 Manaweft Sliver
 Manaweft Sliver
+Mizzium Skin
+Mizzium Skin
 Predatory Sliver
 Predatory Sliver
 Predatory Sliver
@@ -56,3 +59,4 @@ Unknown Shores
 Untamed Wilds
 Wanderer's Twig
 Wayfarer's Bauble
+Winged Sliver
