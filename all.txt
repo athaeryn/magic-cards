@@ -124,7 +124,7 @@ Arcane Lighthouse
 Archaeomancer
 Archaeomancer
 Archangel
-Archer's Parapet
+Archers' Parapet
 Archers' Parapet
 Archers' Parapet
 Archetype of Finality
@@ -2295,6 +2295,8 @@ Pacifism
 Palladium Myr
 Panic Spellbomb
 Paragon of Eternal Wilds
+Paragon of Eternal Wilds
+Paragon of Eternal Wilds
 Paragon of Fierce Defiance
 Paragon of Fierce Defiance
 Paragon of Fierce Defiance
@@ -2305,8 +2307,6 @@ Paragon of New Dawns
 Paragon of New Dawns
 Paragon of Open Graves
 Paragon of Open Graves
-Paragon of the Eternal Wilds
-Paragon of the Eternal Wilds
 Paralyzing Grasp
 Paranoid Delusions
 Paranoid Delusions
@@ -2606,6 +2606,7 @@ Rakshasa Deathdealer
 Rakshasa Deathdealer
 Rakshasa Vizier
 Rakshasa Vizier
+Rakshasa Vizier
 Rakshasa's Secret
 Rakshasa's Secret
 Rakshasa's Secret
@@ -2831,8 +2832,6 @@ Scourge of Skola Vale
 Scourge of Skola Vale
 Scourge of Skola Vale
 Scourge of Skola Vale
-Scourge of Skola Vale
-ScourgeRakshasa Vizier
 Scouring Sands
 Scouring Sands
 Scout the Borders
@@ -3378,7 +3377,7 @@ Take Up Arms
 Take Up Arms
 Take Up Arms
 Take Up Arms
-Take up Arms
+Take Up Arms
 Tear
 Temple of Enlightenment
 Temple of Malady
