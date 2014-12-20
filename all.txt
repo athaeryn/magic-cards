@@ -196,6 +196,7 @@ Battering Krasis
 Battering Krasis
 Battle Mastery
 Battle Mastery
+Battle Mastery
 Battle Sliver
 Battle Sliver
 Battle Sliver
@@ -449,6 +450,7 @@ Constricting Sliver
 Constricting Sliver
 Contested Cliffs
 Coordinated Assault
+Coral Barrier
 Coral Barrier
 Coral Barrier
 Coral Barrier
@@ -1123,6 +1125,7 @@ Generator Servant
 Generator Servant
 Generator Servant
 Generator Servant
+Generator Servant
 Genesis Hydra
 Ghor-Clan Rampager
 Ghor-Clan Rampager
@@ -1291,6 +1294,7 @@ Hunt the Weak
 Hunt the Weak
 Hunt the Weak
 Hunt the Weak
+Hunt the Weak
 Hunter's Ambush
 Hunter's Ambush
 Hunter's Ambush
@@ -1298,6 +1302,7 @@ Hunter's Ambush
 Hunter's Ambush
 Hydra Broodmaster
 Hydra Broodmaster
+Hydrosurge
 Hydrosurge
 Hydrosurge
 Hydrosurge
@@ -1323,6 +1328,7 @@ In Garruk's Wake
 Incite Rebellion
 Incremental Growth
 Incremental Growth
+Indulgent Tormentor
 Indulgent Tormentor
 Infectious Horror
 Infectious Horror
@@ -1635,6 +1641,7 @@ Krenko's Enforcer
 Krenko's Enforcer
 Krenko's Enforcer
 Krenko's Enforcer
+Krenko's Enforcer
 Krosan Tusker
 Krosan Warchief
 Krumar Bond-Kin
@@ -1774,6 +1781,7 @@ Marked by Honor
 Marked by Honor
 Marked by Honor
 Marked by Honor
+Marked by Honor
 Market Festival
 Market Festival
 Market Festival
@@ -1803,6 +1811,7 @@ Maze Sentinel
 Meditation Puzzle
 Meditation Puzzle
 Meditation Puzzle
+Meditation Puzzle
 Mending Touch
 Mending Touch
 Merfolk Spy
@@ -1811,6 +1820,7 @@ Messenger Drake
 Messenger's Speed
 Messenger's Speed
 Messenger's Speed
+Meteorite
 Meteorite
 Meteorite
 Midnight Guard
@@ -1885,6 +1895,7 @@ Mortal's Resolve
 Mortal's Resolve
 Mortal's Resolve
 Mosswort Bridge
+Mountain
 Mountain
 Mountain
 Mountain
@@ -2231,6 +2242,7 @@ Opal Palace
 Opaline Unicorn
 Opaline Unicorn
 Opportunity
+Oppressive Rays
 Oppressive Rays
 Oppressive Rays
 Oppressive Rays
@@ -3074,9 +3086,11 @@ Staff of the Sun Magus
 Staff of the Wild Magus
 Staff of the Wild Magus
 Staff of the Wild Magus
+Staff of the Wild Magus
 Stain the Mind
 Starfall
 Starstorm
+Statute of Denial
 Statute of Denial
 Statute of Denial
 Statute of Denial
@@ -3747,6 +3761,7 @@ Wingsteed Rider
 Winterflame
 Winterflame
 Witch Hunt
+Witch's Familiar
 Witch's Familiar
 Witch's Familiar
 Witch's Familiar
