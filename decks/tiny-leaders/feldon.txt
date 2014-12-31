@@ -1,0 +1,57 @@
+# General
+Feldon of the Third Path
+
+# Creatures
+Bottle Gnomes
+Cathodion
+Dualcaster Mage
+Epochrasite
+Goblin Welder
+Junk Diver
+Myr Retriever
+Myr Sire
+Palladium Myr
+Pilgrim's Eye
+Tuktuk the Explorer
+
+# Other spells
+Chaos Warp
+Everflowing Chalice
+Faithless Looting
+Fire Diamond
+Ichor Wellspring
+Impact Resonance
+Liquimetal Coating
+Magmaquake
+Mind Stone
+Mycosynth Wellspring
+Panic Spellbomb
+Pristine Talisman
+Ruby Medallion
+Starstorm
+Swiftfoot Boots
+Unstable Obelisk
+Wayfarer's Bauble
+Whipflare
+
+# Lands
+Arcane Lighthouse
+Buried Ruin
+Darksteel Citadel
+Dormant Volcano
+Flamekin Village
+Forgotten Cave
+Ghost Quarter
+Great Furnace
+Mountain
+Mountain
+Mountain
+Mountain
+Mountain
+Mountain
+Mountain
+Mountain
+Phyrexia's Core
+Reliquary Tower
+Smoldering Crater
+Temple of the False God
