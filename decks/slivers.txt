@@ -1,62 +1,67 @@
+# Creatures
 Battle Sliver
 Battle Sliver
-Bloodstained Mire
 Blur Sliver
 Diffusion Sliver
 Diffusion Sliver
+Groundshaker Sliver
+Leeching Sliver
+Leeching Sliver
+Manaweft Sliver
+Manaweft Sliver
+Manaweft Sliver
+Predatory Sliver
+Predatory Sliver
+Predatory Sliver
+Predatory Sliver
+Sentinel Sliver
+Sentinel Sliver
+Sliver Construct
+Sliver Construct
+Sliver Hivelord
+Sliver Hivelord
+Striking Sliver
+Striking Sliver
+Venom Sliver
+Venom Sliver
+Xenagos, God of Revels
+
+# Other spells
+Hive Stirrings
+Lightning Strike
+Lightning Strike
+Market Festival
+Market Festival
+Naturalize
+Naturalize
+Nissa, Worldwaker
+Plummet
+Plummet
+Portent of Betrayal
+
+# Lands
+Bloodstained Mire
 Forest
 Forest
 Forest
 Forest
 Forest
 Frontier Bivouac
-Groundshaker Sliver
-Hive Stirrings
 Island
 Island
-Leeching Sliver
-Leeching Sliver
-Lightning Strike
-Lightning Strike
-Manaweft Sliver
-Manaweft Sliver
-Manaweft Sliver
-Market Festival
-Market Festival
 Mountain
 Mountain
 Mountain
 Mountain
 Mountain
-Naturalize
-Naturalize
-Nissa, Worldwaker
 Plains
 Plains
-Plummet
-Plummet
-Portent of Betrayal
-Predatory Sliver
-Predatory Sliver
-Predatory Sliver
-Predatory Sliver
 Sacred Foundry
 Sacred Foundry
-Sentinel Sliver
-Sentinel Sliver
-Sliver Construct
-Sliver Construct
 Sliver Hive
 Sliver Hive
 Sliver Hive
 Sliver Hive
-Sliver Hivelord
-Sliver Hivelord
-Striking Sliver
-Striking Sliver
 Swamp
 Swamp
 Temple of Malady
-Venom Sliver
-Venom Sliver
-Xenagos, God of Revels
