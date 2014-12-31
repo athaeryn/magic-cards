@@ -2,6 +2,7 @@
 Foundry Street Denizen
 Foundry Street Denizen
 Foundry Street Denizen
+Foundry Street Denizen
 Frenzied Goblin
 Goblin Kaboomist
 Goblin Rabblemaster
@@ -13,7 +14,6 @@ Krenko's Enforcer
 Krenko's Enforcer
 Krenko's Enforcer
 Krenko's Enforcer
-Pyrewild Shaman
 Riot Piker
 Riot Piker
 Rummaging Goblin
@@ -24,24 +24,24 @@ Rummaging Goblin
 # Other Spells
 Barrage of Expendables
 Chandra, Pyromaster
-Goblin Rally
+Cone of Flame
 Goblinslide
+Hammerhand
+Hammerhand
+Hammerhand
+Hammerhand
+Hordeling Outburst
 Lightning Strike
 Lightning Strike
 Lightning Strike
 Lightning Strike
 Scouring Sands
 Searing Blood
+Shatter
 Trumpet Blast
 Trumpet Blast
-Volcanic Geyser
-Hammerhand
-Hammerhand
-Hammerhand
-Hammerhand
 
 # Lands
-Mountain
 Mountain
 Mountain
 Mountain
