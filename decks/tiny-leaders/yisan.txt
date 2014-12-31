@@ -1,0 +1,69 @@
+# Leader
+Yisan, the Wanderer Bard
+
+# Creatures
+Alpine Grizzly
+Battering Krasis
+Charging Badger
+Courser of Kruphix
+Deadly Recluse
+Elvish Mystic
+Genesis Hydra
+Guardians of Meletis
+Heir of the Wilds
+Hooded Hydra
+Kalonian Tusker
+Kin-Tree Warden
+Reverent Hunter
+Scourge of Skola Vale
+Setessan Oathsworn
+Tuskguard Captain
+Vastwood Hydra
+Voyaging Satyr
+
+# Other spells
+Aspect of Hydra
+Bow of Nylea
+Burst of Strength
+Chord of Calling
+Forced Adaptation
+Giant Growth
+Naturalize
+Nature's Panoply
+Plummet
+Savage Punch
+Titanic Growth
+
+# Lands
+Forest
+Forest
+Forest
+Forest
+Forest
+Forest
+Forest
+Forest
+Forest
+Forest
+Forest
+Forest
+Forest
+Forest
+Forest
+Forest
+Forest
+Forest
+Forest
+Nykthos, Shrine to Nyx
+
+# Sideboard
+#Hunger of the Howlpack
+#Back to Nature
+#Skyreaping
+#Windstorm
+#Aerial Predation
+#Reclamation Sage
+#Wall of Mulch
+#Renowned Weaver
+#Leafcrown Dryad
+#Staff of the Wild Magus
